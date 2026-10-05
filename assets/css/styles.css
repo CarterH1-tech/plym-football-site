@@ -1,0 +1,281 @@
+/* Plymouth State Panthers · 2026 football site */
+:root {
+  --green-900: #04382a;
+  --green-800: #054e39;
+  --green-700: #0a6b4f;
+  --green-500: #1f8f6b;
+  --lime: #9ccb3b;
+  --ink: #122019;
+  --muted: #5c6b65;
+  --bg: #f3f6f4;
+  --card: #ffffff;
+  --line: #e3e8e5;
+  --win: #1f8f6b;
+  --loss: #b3261e;
+  --gold: #d9a441;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(16, 32, 25, .06), 0 8px 24px rgba(16, 32, 25, .06);
+  --shadow-sm: 0 1px 2px rgba(16, 32, 25, .08);
+  --maxw: 1080px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { width: min(100% - 2rem, var(--maxw)); margin-inline: auto; }
+
+a { color: var(--green-700); }
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: #fff;
+  padding: .6rem 1rem;
+  border-radius: 0 0 8px 0;
+  z-index: 30;
+}
+.skip:focus { left: 0; }
+
+/* ---------- Hero ---------- */
+.hero {
+  background:
+    radial-gradient(1200px 400px at 12% -20%, rgba(156, 203, 59, .22), transparent 60%),
+    linear-gradient(160deg, var(--green-900), var(--green-800) 55%, var(--green-700));
+  color: #fff;
+  padding: 2.2rem 0 0;
+  border-bottom: 4px solid var(--lime);
+}
+.hero__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  padding-bottom: 1.5rem;
+}
+.hero__brand { display: flex; align-items: center; gap: 1rem; }
+.hero__logo {
+  width: 72px; height: 72px;
+  padding: 8px;
+  background: rgba(255, 255, 255, .96);
+  border-radius: 50%;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .25);
+  flex: none;
+}
+.hero h1 { margin: 0; font-size: clamp(1.5rem, 4vw, 2.35rem); letter-spacing: -.02em; }
+.hero__sub { margin: .15rem 0 0; color: rgba(255, 255, 255, .8); font-weight: 600; }
+.eyebrow {
+  margin: 0 0 .35rem;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  font-size: .72rem;
+  font-weight: 700;
+  color: var(--lime);
+}
+
+.chips { display: flex; gap: .6rem; }
+.chip {
+  background: rgba(255, 255, 255, .1);
+  border: 1px solid rgba(255, 255, 255, .18);
+  border-radius: 12px;
+  padding: .5rem .85rem;
+  text-align: center;
+  min-width: 74px;
+}
+.chip__num { display: block; font-size: 1.25rem; font-weight: 800; line-height: 1.1; }
+.chip__lbl { display: block; font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: rgba(255, 255, 255, .75); }
+
+/* Next game strip */
+.nextgame {
+  background: rgba(0, 0, 0, .22);
+  border-top: 1px solid rgba(255, 255, 255, .1);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem 1rem;
+  padding: .7rem 0;
+  font-size: .95rem;
+}
+.nextgame { padding-inline: max(1rem, calc((100% - var(--maxw)) / 2)); }
+.nextgame__label {
+  text-transform: uppercase; letter-spacing: .12em; font-size: .68rem; font-weight: 800;
+  color: var(--green-900); background: var(--lime); border-radius: 999px; padding: .2rem .6rem;
+}
+.nextgame__opp { font-weight: 700; }
+.nextgame__when { color: rgba(255, 255, 255, .82); }
+.nextgame__countdown { margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 700; color: var(--lime); }
+
+/* ---------- Sections ---------- */
+.section { padding: 2.4rem 0 .5rem; }
+.section__head { margin-bottom: 1rem; }
+.section h2 { margin: 0; font-size: clamp(1.3rem, 3vw, 1.7rem); letter-spacing: -.01em; }
+.section__lede { margin: .25rem 0 0; color: var(--muted); }
+
+/* ---------- Filters ---------- */
+.filters { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1rem; }
+.filter {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: .4rem .85rem;
+  font-size: .88rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: background .15s, color .15s, border-color .15s;
+}
+.filter:hover { border-color: var(--green-500); }
+.filter.is-active { background: var(--green-800); border-color: var(--green-800); color: #fff; }
+.filter:focus-visible { outline: 3px solid var(--lime); outline-offset: 2px; }
+
+/* ---------- Game list ---------- */
+.games { display: grid; gap: .7rem; }
+
+.game {
+  display: grid;
+  grid-template-columns: 96px 1fr auto auto;
+  align-items: center;
+  gap: 1rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--line);
+  border-radius: var(--radius);
+  padding: .8rem 1rem;
+  box-shadow: var(--shadow-sm);
+}
+.game--win { border-left-color: var(--win); }
+.game--loss { border-left-color: var(--loss); }
+.game--upcoming { border-left-color: var(--green-500); }
+.game--exhibition { border-left-color: #c9ced0; opacity: .92; }
+.game.is-hidden { display: none; }
+
+.game__when { display: flex; flex-direction: column; line-height: 1.25; }
+.game__dow { font-weight: 800; text-transform: uppercase; font-size: .72rem; letter-spacing: .08em; color: var(--green-700); }
+.game__date { font-weight: 700; }
+.game__time { font-size: .8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.game__matchup { display: flex; align-items: center; gap: .7rem; min-width: 0; }
+.game__ha {
+  font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--muted); background: var(--bg); border: 1px solid var(--line);
+  border-radius: 6px; padding: .15rem .4rem; flex: none;
+}
+.game__opp { display: flex; flex-direction: column; min-width: 0; }
+.game__opp-name { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.game__venue { font-size: .8rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.game__tags { display: flex; gap: .35rem; flex-wrap: wrap; justify-content: flex-end; }
+.tag {
+  font-size: .66rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+  padding: .2rem .45rem; border-radius: 6px; background: var(--bg); color: var(--muted); border: 1px solid var(--line);
+}
+.tag--conf { background: rgba(5, 78, 57, .1); color: var(--green-800); border-color: rgba(5, 78, 57, .25); }
+.tag--exh { background: #f0f1f2; }
+
+.game__result { display: flex; align-items: center; gap: .55rem; justify-content: flex-end; min-width: 96px; }
+.badge {
+  display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 8px;
+  color: #fff; font-weight: 800; font-size: .85rem;
+}
+.badge--w { background: var(--win); }
+.badge--l { background: var(--loss); }
+.score { font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.score b { font-weight: 800; }
+.score__sep { color: var(--muted); margin: 0 .15rem; }
+.upcoming { font-weight: 700; color: var(--green-700); }
+.muted { color: var(--muted); font-size: .9rem; }
+
+.empty { text-align: center; color: var(--muted); padding: 1.5rem; }
+
+/* ---------- Team marks ---------- */
+.teammark {
+  width: 40px; height: 40px; border-radius: 10px; flex: none;
+  display: inline-grid; place-items: center; overflow: hidden;
+  background: #fff; border: 1px solid var(--line);
+}
+.teammark img { width: 100%; height: 100%; object-fit: contain; padding: 3px; }
+.teammark--lg { width: 52px; height: 52px; border-radius: 12px; }
+.teammark--fallback { background: var(--c, #333); border: none; }
+.teammark--fallback img { display: none; }
+.teammark--fallback::after {
+  content: attr(data-initials);
+  color: #fff; font-weight: 800; font-size: .8rem; letter-spacing: .02em;
+}
+.teammark--lg.teammark--fallback::after { font-size: 1rem; }
+
+/* ---------- Spotlight cards ---------- */
+.pcards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  padding-bottom: 2rem;
+}
+.pcard {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 5px solid var(--team);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.pcard__head { display: flex; align-items: center; gap: .8rem; padding: 1rem 1rem .85rem; border-bottom: 1px solid var(--line); }
+.pcard__id { min-width: 0; }
+.pcard__team { margin: 0; font-size: 1.02rem; letter-spacing: -.01em; }
+.pcard__mascot { margin: .1rem 0 0; font-size: .76rem; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); font-weight: 700; }
+.pcard__player { padding: 1rem; }
+.pcard__kicker {
+  margin: 0 0 .3rem; font-size: .68rem; font-weight: 800; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--team);
+}
+.pcard__name { margin: 0; font-size: 1.25rem; }
+.pcard__meta { margin: .15rem 0 0; color: var(--muted); font-size: .88rem; font-weight: 600; }
+.pcard__stat {
+  margin: .7rem 0 .6rem; padding: .5rem .7rem; border-radius: 10px;
+  background: color-mix(in srgb, var(--team) 10%, #fff);
+  border: 1px solid color-mix(in srgb, var(--team) 26%, #fff);
+  font-weight: 700; font-size: .9rem;
+  color: color-mix(in srgb, var(--team) 72%, #000);
+}
+.pcard__blurb { margin: 0; color: #33413b; font-size: .94rem; }
+
+/* ---------- Footer ---------- */
+.footer { background: var(--green-900); color: rgba(255, 255, 255, .82); margin-top: 2rem; padding: 1.6rem 0; }
+.footer p { margin: 0 0 .4rem; font-size: .86rem; }
+.footer__meta { color: rgba(255, 255, 255, .6); }
+.footer a { color: var(--lime); }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 720px) {
+  .game {
+    grid-template-columns: 84px 1fr;
+    grid-template-areas:
+      "when matchup"
+      "tags result";
+    row-gap: .55rem;
+  }
+  .game__when { grid-area: when; }
+  .game__matchup { grid-area: matchup; }
+  .game__tags { grid-area: tags; justify-content: flex-start; }
+  .game__result { grid-area: result; }
+  .hero__inner { flex-direction: column; align-items: flex-start; }
+  .nextgame__countdown { margin-left: 0; width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

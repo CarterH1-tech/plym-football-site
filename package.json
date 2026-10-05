@@ -1,0 +1,14 @@
+{
+  "name": "plymouth-state-football",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static site for the Plymouth State Panthers 2026 football season: schedule, scores, and a player to watch from every team.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --offline"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

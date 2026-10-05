@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-10-05T19:02:48.634Z",
+  "source": "network",
+  "sources": {
+    "schedule": "https://athletics.plymouth.edu/services/schedule_txt.ashx?schedule=695"
+  },
+  "team": {
+    "name": "Plymouth State Panthers",
+    "conference": "MASCAC",
+    "division": "NCAA Division III"
+  },
+  "record": {
+    "overall": "2-2",
+    "conference": "1-2",
+    "streak": "W1",
+    "home": "2-1",
+    "away": "0-1",
+    "neutral": "0-0"
+  },
+  "summary": {
+    "played": 4,
+    "wins": 2,
+    "losses": 2
+  },
+  "nextGame": {
+    "date": "2026-10-10",
+    "dowShort": "Sat",
+    "dow": "Sat",
+    "timeLabel": "12:00 PM",
+    "kickoff": "2026-10-10T12:00:00-04:00",
+    "homeAway": "away",
+    "opponent": "Mass. Maritime",
+    "location": "Buzzards Bay, Mass. (Clean Harbors Stadium)",
+    "conference": true,
+    "exhibition": false,
+    "status": "upcoming",
+    "result": null
+  },
+  "games": [
+    {
+      "date": "2026-08-28",
+      "dowShort": "Fri",
+      "dow": "Fri",
+      "timeLabel": "2:00 PM",
+      "kickoff": "2026-08-28T14:00:00-04:00",
+      "homeAway": "away",
+      "opponent": "Norwich",
+      "location": "Northfield, Vt. (Sabine Field)",
+      "conference": false,
+      "exhibition": true,
+      "status": "exhibition",
+      "result": null
+    },
+    {
+      "date": "2026-09-05",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-09-05T12:00:00-04:00",
+      "homeAway": "home",
+      "opponent": "New England College",
+      "location": "Plymouth, N.H. (Panther Field)",
+      "conference": false,
+      "exhibition": false,
+      "status": "final",
+      "result": {
+        "code": "W",
+        "teamScore": 28,
+        "oppScore": 14
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "2:30 PM",
+      "kickoff": "2026-09-12T14:30:00-04:00",
+      "homeAway": "away",
+      "opponent": "Worcester State",
+      "location": "Worcester, Mass. (John Coughlin Memorial Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "final",
+      "result": {
+        "code": "L",
+        "teamScore": 6,
+        "oppScore": 28
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-09-19T12:00:00-04:00",
+      "homeAway": "home",
+      "opponent": "Bridgewater State",
+      "location": "Plymouth, N.H. (Panther Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "final",
+      "result": {
+        "code": "L",
+        "teamScore": 7,
+        "oppScore": 35
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:30 PM",
+      "kickoff": "2026-10-03T12:30:00-04:00",
+      "homeAway": "home",
+      "opponent": "Dean",
+      "location": "Plymouth, N.H. (Panther Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "final",
+      "result": {
+        "code": "W",
+        "teamScore": 14,
+        "oppScore": 0
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-10-10T12:00:00-04:00",
+      "homeAway": "away",
+      "opponent": "Mass. Maritime",
+      "location": "Buzzards Bay, Mass. (Clean Harbors Stadium)",
+      "conference": true,
+      "exhibition": false,
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "date": "2026-10-24",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-10-24T12:00:00-04:00",
+      "homeAway": "home",
+      "opponent": "Westfield State",
+      "location": "Plymouth, N.H. (Panther Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "date": "2026-10-31",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-10-31T12:00:00-04:00",
+      "homeAway": "away",
+      "opponent": "Framingham State",
+      "location": "Framingham, Mass. (Bowditch Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "date": "2026-11-07",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-11-07T12:00:00-05:00",
+      "homeAway": "away",
+      "opponent": "Fitchburg State",
+      "location": "Fitchburg, Mass. (Elliot Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "date": "2026-11-14",
+      "dowShort": "Sat",
+      "dow": "Sat",
+      "timeLabel": "12:00 PM",
+      "kickoff": "2026-11-14T12:00:00-05:00",
+      "homeAway": "home",
+      "opponent": "UMass Dartmouth",
+      "location": "Plymouth, N.H. (Panther Field)",
+      "conference": true,
+      "exhibition": false,
+      "status": "upcoming",
+      "result": null
+    }
+  ]
+}

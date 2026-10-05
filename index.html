@@ -1,0 +1,783 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plymouth State Panthers · 2026 Football Schedule &amp; Scores</title>
+<meta name="description" content="Plymouth State Panthers 2026 football schedule, live scores and results, plus a player to watch from every team on the slate.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%23054e39'/%3E%3Ctext x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='Arial'%3EPS%3C/text%3E%3C/svg%3E">
+<style>
+/* Plymouth State Panthers · 2026 football site */
+:root {
+  --green-900: #04382a;
+  --green-800: #054e39;
+  --green-700: #0a6b4f;
+  --green-500: #1f8f6b;
+  --lime: #9ccb3b;
+  --ink: #122019;
+  --muted: #5c6b65;
+  --bg: #f3f6f4;
+  --card: #ffffff;
+  --line: #e3e8e5;
+  --win: #1f8f6b;
+  --loss: #b3261e;
+  --gold: #d9a441;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(16, 32, 25, .06), 0 8px 24px rgba(16, 32, 25, .06);
+  --shadow-sm: 0 1px 2px rgba(16, 32, 25, .08);
+  --maxw: 1080px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { width: min(100% - 2rem, var(--maxw)); margin-inline: auto; }
+
+a { color: var(--green-700); }
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: #fff;
+  padding: .6rem 1rem;
+  border-radius: 0 0 8px 0;
+  z-index: 30;
+}
+.skip:focus { left: 0; }
+
+/* ---------- Hero ---------- */
+.hero {
+  background:
+    radial-gradient(1200px 400px at 12% -20%, rgba(156, 203, 59, .22), transparent 60%),
+    linear-gradient(160deg, var(--green-900), var(--green-800) 55%, var(--green-700));
+  color: #fff;
+  padding: 2.2rem 0 0;
+  border-bottom: 4px solid var(--lime);
+}
+.hero__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  padding-bottom: 1.5rem;
+}
+.hero__brand { display: flex; align-items: center; gap: 1rem; }
+.hero__logo {
+  width: 72px; height: 72px;
+  padding: 8px;
+  background: rgba(255, 255, 255, .96);
+  border-radius: 50%;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .25);
+  flex: none;
+}
+.hero h1 { margin: 0; font-size: clamp(1.5rem, 4vw, 2.35rem); letter-spacing: -.02em; }
+.hero__sub { margin: .15rem 0 0; color: rgba(255, 255, 255, .8); font-weight: 600; }
+.eyebrow {
+  margin: 0 0 .35rem;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  font-size: .72rem;
+  font-weight: 700;
+  color: var(--lime);
+}
+
+.chips { display: flex; gap: .6rem; }
+.chip {
+  background: rgba(255, 255, 255, .1);
+  border: 1px solid rgba(255, 255, 255, .18);
+  border-radius: 12px;
+  padding: .5rem .85rem;
+  text-align: center;
+  min-width: 74px;
+}
+.chip__num { display: block; font-size: 1.25rem; font-weight: 800; line-height: 1.1; }
+.chip__lbl { display: block; font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: rgba(255, 255, 255, .75); }
+
+/* Next game strip */
+.nextgame {
+  background: rgba(0, 0, 0, .22);
+  border-top: 1px solid rgba(255, 255, 255, .1);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem 1rem;
+  padding: .7rem 0;
+  font-size: .95rem;
+}
+.nextgame { padding-inline: max(1rem, calc((100% - var(--maxw)) / 2)); }
+.nextgame__label {
+  text-transform: uppercase; letter-spacing: .12em; font-size: .68rem; font-weight: 800;
+  color: var(--green-900); background: var(--lime); border-radius: 999px; padding: .2rem .6rem;
+}
+.nextgame__opp { font-weight: 700; }
+.nextgame__when { color: rgba(255, 255, 255, .82); }
+.nextgame__countdown { margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 700; color: var(--lime); }
+
+/* ---------- Sections ---------- */
+.section { padding: 2.4rem 0 .5rem; }
+.section__head { margin-bottom: 1rem; }
+.section h2 { margin: 0; font-size: clamp(1.3rem, 3vw, 1.7rem); letter-spacing: -.01em; }
+.section__lede { margin: .25rem 0 0; color: var(--muted); }
+
+/* ---------- Filters ---------- */
+.filters { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1rem; }
+.filter {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: .4rem .85rem;
+  font-size: .88rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: background .15s, color .15s, border-color .15s;
+}
+.filter:hover { border-color: var(--green-500); }
+.filter.is-active { background: var(--green-800); border-color: var(--green-800); color: #fff; }
+.filter:focus-visible { outline: 3px solid var(--lime); outline-offset: 2px; }
+
+/* ---------- Game list ---------- */
+.games { display: grid; gap: .7rem; }
+
+.game {
+  display: grid;
+  grid-template-columns: 96px 1fr auto auto;
+  align-items: center;
+  gap: 1rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--line);
+  border-radius: var(--radius);
+  padding: .8rem 1rem;
+  box-shadow: var(--shadow-sm);
+}
+.game--win { border-left-color: var(--win); }
+.game--loss { border-left-color: var(--loss); }
+.game--upcoming { border-left-color: var(--green-500); }
+.game--exhibition { border-left-color: #c9ced0; opacity: .92; }
+.game.is-hidden { display: none; }
+
+.game__when { display: flex; flex-direction: column; line-height: 1.25; }
+.game__dow { font-weight: 800; text-transform: uppercase; font-size: .72rem; letter-spacing: .08em; color: var(--green-700); }
+.game__date { font-weight: 700; }
+.game__time { font-size: .8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.game__matchup { display: flex; align-items: center; gap: .7rem; min-width: 0; }
+.game__ha {
+  font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--muted); background: var(--bg); border: 1px solid var(--line);
+  border-radius: 6px; padding: .15rem .4rem; flex: none;
+}
+.game__opp { display: flex; flex-direction: column; min-width: 0; }
+.game__opp-name { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.game__venue { font-size: .8rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.game__tags { display: flex; gap: .35rem; flex-wrap: wrap; justify-content: flex-end; }
+.tag {
+  font-size: .66rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+  padding: .2rem .45rem; border-radius: 6px; background: var(--bg); color: var(--muted); border: 1px solid var(--line);
+}
+.tag--conf { background: rgba(5, 78, 57, .1); color: var(--green-800); border-color: rgba(5, 78, 57, .25); }
+.tag--exh { background: #f0f1f2; }
+
+.game__result { display: flex; align-items: center; gap: .55rem; justify-content: flex-end; min-width: 96px; }
+.badge {
+  display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 8px;
+  color: #fff; font-weight: 800; font-size: .85rem;
+}
+.badge--w { background: var(--win); }
+.badge--l { background: var(--loss); }
+.score { font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.score b { font-weight: 800; }
+.score__sep { color: var(--muted); margin: 0 .15rem; }
+.upcoming { font-weight: 700; color: var(--green-700); }
+.muted { color: var(--muted); font-size: .9rem; }
+
+.empty { text-align: center; color: var(--muted); padding: 1.5rem; }
+
+/* ---------- Team marks ---------- */
+.teammark {
+  width: 40px; height: 40px; border-radius: 10px; flex: none;
+  display: inline-grid; place-items: center; overflow: hidden;
+  background: #fff; border: 1px solid var(--line);
+}
+.teammark img { width: 100%; height: 100%; object-fit: contain; padding: 3px; }
+.teammark--lg { width: 52px; height: 52px; border-radius: 12px; }
+.teammark--fallback { background: var(--c, #333); border: none; }
+.teammark--fallback img { display: none; }
+.teammark--fallback::after {
+  content: attr(data-initials);
+  color: #fff; font-weight: 800; font-size: .8rem; letter-spacing: .02em;
+}
+.teammark--lg.teammark--fallback::after { font-size: 1rem; }
+
+/* ---------- Spotlight cards ---------- */
+.pcards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  padding-bottom: 2rem;
+}
+.pcard {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 5px solid var(--team);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.pcard__head { display: flex; align-items: center; gap: .8rem; padding: 1rem 1rem .85rem; border-bottom: 1px solid var(--line); }
+.pcard__id { min-width: 0; }
+.pcard__team { margin: 0; font-size: 1.02rem; letter-spacing: -.01em; }
+.pcard__mascot { margin: .1rem 0 0; font-size: .76rem; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); font-weight: 700; }
+.pcard__player { padding: 1rem; }
+.pcard__kicker {
+  margin: 0 0 .3rem; font-size: .68rem; font-weight: 800; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--team);
+}
+.pcard__name { margin: 0; font-size: 1.25rem; }
+.pcard__meta { margin: .15rem 0 0; color: var(--muted); font-size: .88rem; font-weight: 600; }
+.pcard__stat {
+  margin: .7rem 0 .6rem; padding: .5rem .7rem; border-radius: 10px;
+  background: color-mix(in srgb, var(--team) 10%, #fff);
+  border: 1px solid color-mix(in srgb, var(--team) 26%, #fff);
+  font-weight: 700; font-size: .9rem;
+  color: color-mix(in srgb, var(--team) 72%, #000);
+}
+.pcard__blurb { margin: 0; color: #33413b; font-size: .94rem; }
+
+/* ---------- Footer ---------- */
+.footer { background: var(--green-900); color: rgba(255, 255, 255, .82); margin-top: 2rem; padding: 1.6rem 0; }
+.footer p { margin: 0 0 .4rem; font-size: .86rem; }
+.footer__meta { color: rgba(255, 255, 255, .6); }
+.footer a { color: var(--lime); }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 720px) {
+  .game {
+    grid-template-columns: 84px 1fr;
+    grid-template-areas:
+      "when matchup"
+      "tags result";
+    row-gap: .55rem;
+  }
+  .game__when { grid-area: when; }
+  .game__matchup { grid-area: matchup; }
+  .game__tags { grid-area: tags; justify-content: flex-start; }
+  .game__result { grid-area: result; }
+  .hero__inner { flex-direction: column; align-items: flex-start; }
+  .nextgame__countdown { margin-left: 0; width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+</style>
+</head>
+<body>
+<a class="skip" href="#schedule">Skip to schedule</a>
+
+<header class="hero">
+  <div class="wrap hero__inner">
+    <div class="hero__brand">
+      <img class="hero__logo" src="https://a.espncdn.com/i/teamlogos/ncaa/500/2972.png" alt="Plymouth State Panthers logo" onerror="this.remove()">
+      <div>
+        <p class="eyebrow">NCAA Division III · MASCAC</p>
+        <h1>Plymouth State Panthers</h1>
+        <p class="hero__sub">2026 Football Season</p>
+      </div>
+    </div>
+    <div class="chips">
+      <div class="chip"><span class="chip__num">2-2</span><span class="chip__lbl">Overall</span></div>
+      <div class="chip"><span class="chip__num">1-2</span><span class="chip__lbl">MASCAC</span></div>
+      <div class="chip"><span class="chip__num">W1</span><span class="chip__lbl">Streak</span></div></div>
+  </div>
+  
+    <div class="nextgame" data-kickoff="2026-10-10T12:00:00-04:00">
+      <span class="nextgame__label">Next game</span>
+      <span class="nextgame__opp">at Mass. Maritime Buccaneers</span>
+      <span class="nextgame__when">Sat Oct 10 · 12:00 PM ET</span>
+      <span class="nextgame__countdown" aria-live="polite"></span>
+    </div>
+</header>
+
+<main class="wrap">
+
+  <section id="schedule" class="section">
+    <div class="section__head">
+      <h2>Schedule &amp; Results</h2>
+      <p class="section__lede">All 10 games of the 2026 season · 2–2 so far.</p>
+    </div>
+    <div class="filters" role="group" aria-label="Filter games">
+      <button type="button" class="filter is-active" data-filter="all" aria-pressed="true">All</button>
+      <button type="button" class="filter" data-filter="home" aria-pressed="false">Home</button>
+      <button type="button" class="filter" data-filter="away" aria-pressed="false">Away</button>
+      <button type="button" class="filter" data-filter="conf" aria-pressed="false">Conference</button>
+      <button type="button" class="filter" data-filter="final" aria-pressed="false">Completed</button>
+      <button type="button" class="filter" data-filter="upcoming" aria-pressed="false">Upcoming</button>
+    </div>
+    <div class="games" id="games">
+    <article class="game game--exhibition"
+      data-status="exhibition" data-site="away" data-conf="0">
+      <div class="game__when">
+        <span class="game__dow">Fri</span>
+        <span class="game__date">Aug 28</span>
+        <span class="game__time">2:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">at</span>
+        <span class="teammark teammark--fallback" style="--c:#6E1C2A" data-initials="N"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Norwich University Cadets</span>
+          <span class="game__venue">Sabine Field · Northfield, Vt.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--exh">Exhibition</span></div>
+      <div class="game__result"><span class="muted">Scrimmage</span></div>
+    </article>
+    <article class="game game--final game--win"
+      data-status="final" data-site="home" data-conf="0">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Sep 5</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">vs</span>
+        <span class="teammark teammark--fallback" style="--c:#002B5C" data-initials="NEC"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">New England College Pilgrims</span>
+          <span class="game__venue">Panther Field · Plymouth, N.H.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag">Non-conference</span></div>
+      
+      <div class="game__result">
+        <span class="badge badge--w">W</span>
+        <span class="score"><b>28</b><span class="score__sep">–</span>14</span>
+      </div>
+    </article>
+    <article class="game game--final game--loss"
+      data-status="final" data-site="away" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Sep 12</span>
+        <span class="game__time">2:30 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">at</span>
+        <span class="teammark" style="--c:#004b8e"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/402.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="WS"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Worcester State Lancers</span>
+          <span class="game__venue">John Coughlin Memorial Field · Worcester, Mass.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      
+      <div class="game__result">
+        <span class="badge badge--l">L</span>
+        <span class="score"><b>6</b><span class="score__sep">–</span>28</span>
+      </div>
+    </article>
+    <article class="game game--final game--loss"
+      data-status="final" data-site="home" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Sep 19</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">vs</span>
+        <span class="teammark" style="--c:#bf2f38"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/18.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="BS"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Bridgewater State Bears</span>
+          <span class="game__venue">Panther Field · Plymouth, N.H.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      
+      <div class="game__result">
+        <span class="badge badge--l">L</span>
+        <span class="score"><b>7</b><span class="score__sep">–</span>35</span>
+      </div>
+    </article>
+    <article class="game game--final game--win"
+      data-status="final" data-site="home" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Oct 3</span>
+        <span class="game__time">12:30 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">vs</span>
+        <span class="teammark" style="--c:#8C1D2C"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/110438.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="D"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Dean College Bulldogs</span>
+          <span class="game__venue">Panther Field · Plymouth, N.H.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      
+      <div class="game__result">
+        <span class="badge badge--w">W</span>
+        <span class="score"><b>14</b><span class="score__sep">–</span>0</span>
+      </div>
+    </article>
+    <article class="game game--upcoming"
+      data-status="upcoming" data-site="away" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Oct 10</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">at</span>
+        <span class="teammark" style="--c:#212c62"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/110.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="MM"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Mass. Maritime Buccaneers</span>
+          <span class="game__venue">Clean Harbors Stadium · Buzzards Bay, Mass.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      <div class="game__result"><span class="upcoming">Upcoming</span></div>
+    </article>
+    <article class="game game--upcoming"
+      data-status="upcoming" data-site="home" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Oct 24</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">vs</span>
+        <span class="teammark" style="--c:#1b509e"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2909.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="WS"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Westfield State Owls</span>
+          <span class="game__venue">Panther Field · Plymouth, N.H.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      <div class="game__result"><span class="upcoming">Upcoming</span></div>
+    </article>
+    <article class="game game--upcoming"
+      data-status="upcoming" data-site="away" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Oct 31</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">at</span>
+        <span class="teammark" style="--c:#B31B34"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2967.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="FS"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Framingham State Rams</span>
+          <span class="game__venue">Bowditch Field · Framingham, Mass.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      <div class="game__result"><span class="upcoming">Upcoming</span></div>
+    </article>
+    <article class="game game--upcoming"
+      data-status="upcoming" data-site="away" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Nov 7</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">at</span>
+        <span class="teammark" style="--c:#024d36"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/114.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="FS"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">Fitchburg State Falcons</span>
+          <span class="game__venue">Elliot Field · Fitchburg, Mass.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      <div class="game__result"><span class="upcoming">Upcoming</span></div>
+    </article>
+    <article class="game game--upcoming"
+      data-status="upcoming" data-site="home" data-conf="1">
+      <div class="game__when">
+        <span class="game__dow">Sat</span>
+        <span class="game__date">Nov 14</span>
+        <span class="game__time">12:00 PM ET</span>
+      </div>
+      <div class="game__matchup">
+        <span class="game__ha">vs</span>
+        <span class="teammark" style="--c:#003DA5"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/379.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="UD"></span>
+        <div class="game__opp">
+          <span class="game__opp-name">UMass Dartmouth Corsairs</span>
+          <span class="game__venue">Panther Field · Plymouth, N.H.</span>
+        </div>
+      </div>
+      <div class="game__tags"><span class="tag tag--conf">MASCAC</span></div>
+      <div class="game__result"><span class="upcoming">Upcoming</span></div>
+    </article></div>
+    <p class="empty" id="empty" hidden>No games match this filter.</p>
+  </section>
+
+  <section id="teams" class="section">
+    <div class="section__head">
+      <h2>Team Spotlights</h2>
+      <p class="section__lede">One player from each team and what they've done so far this season.</p>
+    </div>
+    <div class="pcards">
+    <article class="pcard" style="--team:#054e39">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#054e39"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2972.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="PS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Plymouth State Panthers</h3>
+          <p class="pcard__mascot">Panthers · Home team</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">TJ Taveras</h4>
+        <p class="pcard__meta">DL · Sr. · Rochester, N.H.</p>
+        <p class="pcard__stat">19 tackles · 6.0 TFL · 3.5 sacks (MASCAC best)</p>
+        <p class="pcard__blurb">Taveras has been the Panthers' tone-setter on defense, leading the MASCAC with 3.5 sacks while tying for second in the conference with 6.0 tackles for loss. The senior defensive lineman posted a season-high 11 tackles and 3.5 TFL in Plymouth State's 14–0 Homecoming shutout of Dean, and he has added six quarterback hurries and a forced fumble.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#002B5C">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg teammark--fallback" style="--c:#002B5C" data-initials="NEC"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">New England College Pilgrims</h3>
+          <p class="pcard__mascot">Pilgrims</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Ethan Cenesca</h4>
+        <p class="pcard__meta">LB</p>
+        <p class="pcard__stat">63 tackles · 11.5 TFL · 2 INT · 2 FF</p>
+        <p class="pcard__blurb">Cenesca has been a bright spot for the Pilgrims, racking up 63 total tackles (34 solo) to go with 11.5 tackles for loss, 2.0 sacks, two interceptions and two forced fumbles in five games. He was at his best against Plymouth State on Sept. 5, when he recorded 13 tackles and 4.5 TFL in the season opener.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#004b8e">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#004b8e"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/402.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="WS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Worcester State Lancers</h3>
+          <p class="pcard__mascot">Lancers</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">M.J. Bakaysa</h4>
+        <p class="pcard__meta">QB</p>
+        <p class="pcard__stat">1,212 pass yds (MASCAC best) · 11 TD</p>
+        <p class="pcard__blurb">Bakaysa directs one of the MASCAC's most productive passing attacks, leading the conference with 1,212 passing yards and 11 touchdowns while averaging 242.4 yards per game. The Lancers' quarterback threw for 191 yards and two scores in Worcester State's 28–6 win over Plymouth State on Sept. 12.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#bf2f38">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#bf2f38"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/18.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="BS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Bridgewater State Bears</h3>
+          <p class="pcard__mascot">Bears</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Jayden Barber</h4>
+        <p class="pcard__meta">QB</p>
+        <p class="pcard__stat">71.8% completions · 184.0 rating · 7 TD</p>
+        <p class="pcard__blurb">Barber has been the MASCAC's most efficient quarterback, topping the conference in completion percentage (71.8%) and pass efficiency rating (184.0). He has thrown for 697 yards and seven touchdowns and averages 7.8 yards per carry, and he led the Bears to a 35–7 win at Plymouth State on Sept. 19.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#8C1D2C">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#8C1D2C"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/110438.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="D"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Dean College Bulldogs</h3>
+          <p class="pcard__mascot">Bulldogs</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Chris Donohue</h4>
+        <p class="pcard__meta">QB</p>
+        <p class="pcard__stat">102 completions (MASCAC best) · 716 yds · 179.0 ypg</p>
+        <p class="pcard__blurb">Donohue keeps the Bulldogs' offense moving, leading the MASCAC with 102 completions on 156 attempts (65.4%) for 716 yards and three touchdowns. Against Plymouth State on Oct. 3 he completed 23 of 28 passes and also ran 26 times, accounting for most of Dean's offense in a 14–0 loss.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#212c62">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#212c62"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/110.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="MM"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Mass. Maritime Buccaneers</h3>
+          <p class="pcard__mascot">Buccaneers</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Joseph Schwartz</h4>
+        <p class="pcard__meta">RB</p>
+        <p class="pcard__stat">4 rush TD · 131 yds · 6.2 avg</p>
+        <p class="pcard__blurb">Schwartz has been the Buccaneers' finisher in the red zone, scoring a team-high four rushing touchdowns in just three games. The running back has turned 21 carries into 131 yards (6.2 per attempt) with a long run of 23 yards.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#1b509e">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#1b509e"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2909.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="WS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Westfield State Owls</h3>
+          <p class="pcard__mascot">Owls</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Malachi Hymes</h4>
+        <p class="pcard__meta">WR</p>
+        <p class="pcard__stat">4 rec TD (MASCAC co-leader) · 291 yds · 72.8 ypg</p>
+        <p class="pcard__blurb">Hymes is the Owls' top big-play target, tying for the MASCAC lead with four touchdown receptions while piling up 291 receiving yards (72.8 per game). He has been Westfield State's most reliable option in the passing game this season.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#B31B34">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#B31B34"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2967.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="FS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Framingham State Rams</h3>
+          <p class="pcard__mascot">Rams</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Michael Marcucella</h4>
+        <p class="pcard__meta">QB</p>
+        <p class="pcard__stat">875 yds · 7 TD · 291.7 ypg (MASCAC best)</p>
+        <p class="pcard__blurb">Marcucella has lit up opposing defenses, leading the MASCAC with 291.7 passing yards per game while throwing for 875 yards and seven touchdowns with a 164.7 efficiency rating in three games. The Rams' quarterback owns the conference's highest per-game passing average by more than 49 yards.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#024d36">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#024d36"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/114.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="FS"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">Fitchburg State Falcons</h3>
+          <p class="pcard__mascot">Falcons</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Reshawn Stewart</h4>
+        <p class="pcard__meta">RB</p>
+        <p class="pcard__stat">550 yds · 137.5 ypg · 7.1 avg</p>
+        <p class="pcard__blurb">Stewart has been one of the MASCAC's premier rushers, gaining 550 yards on 78 carries (7.1 per attempt) for 137.5 yards per game. The Falcons' running back sits second in the conference in both rushing yards and rushing yards per game.</p>
+      </div>
+    </article>
+    <article class="pcard" style="--team:#003DA5">
+      <header class="pcard__head">
+        <span class="teammark teammark--lg" style="--c:#003DA5"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/379.png" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('teammark--fallback')" data-initials="UD"></span>
+        <div class="pcard__id">
+          <h3 class="pcard__team">UMass Dartmouth Corsairs</h3>
+          <p class="pcard__mascot">Corsairs</p>
+        </div>
+      </header>
+      <div class="pcard__player">
+        <p class="pcard__kicker">Player to watch</p>
+        <h4 class="pcard__name">Mekhi Wilson</h4>
+        <p class="pcard__meta">RB</p>
+        <p class="pcard__stat">575 yds (MASCAC best) · 6 TD · 143.8 ypg</p>
+        <p class="pcard__blurb">Wilson leads the MASCAC in rushing, piling up 575 yards on 83 carries (6.9 per attempt) and scoring six touchdowns while averaging 143.8 yards per game. The Corsairs' running back ripped off a 76-yard run and has been the conference's most productive back so far this season.</p>
+      </div>
+    </article></div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p>Unofficial fan page for Plymouth State University Panthers football. Not affiliated with or endorsed by Plymouth State University or the NCAA.</p>
+    <p class="footer__meta">Schedule &amp; scores: <a href="https://athletics.plymouth.edu/sports/football/schedule/2026">athletics.plymouth.edu</a>. Player stats: MASCAC conference leaders and each school's official stats. Last updated <time datetime="2026-10-05T19:02:48.634Z">2026-10-05 19:02:48 UTC</time>.</p>
+  </div>
+</footer>
+
+<script id="season-data" type="application/json">{"generatedAt":"2026-10-05T19:02:48.634Z","source":"network","sources":{"schedule":"https://athletics.plymouth.edu/services/schedule_txt.ashx?schedule=695"},"team":{"name":"Plymouth State Panthers","conference":"MASCAC","division":"NCAA Division III"},"record":{"overall":"2-2","conference":"1-2","streak":"W1","home":"2-1","away":"0-1","neutral":"0-0"},"summary":{"played":4,"wins":2,"losses":2},"nextGame":{"date":"2026-10-10","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-10-10T12:00:00-04:00","homeAway":"away","opponent":"Mass. Maritime","location":"Buzzards Bay, Mass. (Clean Harbors Stadium)","conference":true,"exhibition":false,"status":"upcoming","result":null},"games":[{"date":"2026-08-28","dowShort":"Fri","dow":"Fri","timeLabel":"2:00 PM","kickoff":"2026-08-28T14:00:00-04:00","homeAway":"away","opponent":"Norwich","location":"Northfield, Vt. (Sabine Field)","conference":false,"exhibition":true,"status":"exhibition","result":null},{"date":"2026-09-05","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-09-05T12:00:00-04:00","homeAway":"home","opponent":"New England College","location":"Plymouth, N.H. (Panther Field)","conference":false,"exhibition":false,"status":"final","result":{"code":"W","teamScore":28,"oppScore":14}},{"date":"2026-09-12","dowShort":"Sat","dow":"Sat","timeLabel":"2:30 PM","kickoff":"2026-09-12T14:30:00-04:00","homeAway":"away","opponent":"Worcester State","location":"Worcester, Mass. (John Coughlin Memorial Field)","conference":true,"exhibition":false,"status":"final","result":{"code":"L","teamScore":6,"oppScore":28}},{"date":"2026-09-19","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-09-19T12:00:00-04:00","homeAway":"home","opponent":"Bridgewater State","location":"Plymouth, N.H. (Panther Field)","conference":true,"exhibition":false,"status":"final","result":{"code":"L","teamScore":7,"oppScore":35}},{"date":"2026-10-03","dowShort":"Sat","dow":"Sat","timeLabel":"12:30 PM","kickoff":"2026-10-03T12:30:00-04:00","homeAway":"home","opponent":"Dean","location":"Plymouth, N.H. (Panther Field)","conference":true,"exhibition":false,"status":"final","result":{"code":"W","teamScore":14,"oppScore":0}},{"date":"2026-10-10","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-10-10T12:00:00-04:00","homeAway":"away","opponent":"Mass. Maritime","location":"Buzzards Bay, Mass. (Clean Harbors Stadium)","conference":true,"exhibition":false,"status":"upcoming","result":null},{"date":"2026-10-24","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-10-24T12:00:00-04:00","homeAway":"home","opponent":"Westfield State","location":"Plymouth, N.H. (Panther Field)","conference":true,"exhibition":false,"status":"upcoming","result":null},{"date":"2026-10-31","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-10-31T12:00:00-04:00","homeAway":"away","opponent":"Framingham State","location":"Framingham, Mass. (Bowditch Field)","conference":true,"exhibition":false,"status":"upcoming","result":null},{"date":"2026-11-07","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-11-07T12:00:00-05:00","homeAway":"away","opponent":"Fitchburg State","location":"Fitchburg, Mass. (Elliot Field)","conference":true,"exhibition":false,"status":"upcoming","result":null},{"date":"2026-11-14","dowShort":"Sat","dow":"Sat","timeLabel":"12:00 PM","kickoff":"2026-11-14T12:00:00-05:00","homeAway":"home","opponent":"UMass Dartmouth","location":"Plymouth, N.H. (Panther Field)","conference":true,"exhibition":false,"status":"upcoming","result":null}]}</script>
+<script>
+// Progressive enhancements: game filters and the next-game countdown.
+// The page is fully usable with JavaScript disabled.
+
+(function () {
+  "use strict";
+
+  /* ---------- Filters ---------- */
+  var games = Array.prototype.slice.call(document.querySelectorAll(".game"));
+  var buttons = Array.prototype.slice.call(document.querySelectorAll(".filter"));
+  var empty = document.getElementById("empty");
+
+  function matches(el, filter) {
+    switch (filter) {
+      case "all": return true;
+      case "home": return el.dataset.site === "home";
+      case "away": return el.dataset.site === "away";
+      case "conf": return el.dataset.conf === "1";
+      case "final": return el.dataset.status === "final";
+      case "upcoming": return el.dataset.status === "upcoming";
+      default: return true;
+    }
+  }
+
+  function apply(filter) {
+    var visible = 0;
+    games.forEach(function (el) {
+      var show = matches(el, filter);
+      el.classList.toggle("is-hidden", !show);
+      if (show) visible++;
+    });
+    if (empty) empty.hidden = visible !== 0;
+    buttons.forEach(function (b) {
+      var active = b.dataset.filter === filter;
+      b.classList.toggle("is-active", active);
+      b.setAttribute("aria-pressed", active ? "true" : "false");
+    });
+  }
+
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () { apply(b.dataset.filter); });
+  });
+
+  /* ---------- Countdown ---------- */
+  var cd = document.querySelector(".nextgame__countdown");
+  if (cd && cd.closest(".nextgame") && cd.closest(".nextgame").dataset.kickoff) {
+    var target = new Date(cd.closest(".nextgame").dataset.kickoff).getTime();
+
+    var tick = function () {
+      var diff = target - Date.now();
+      if (isNaN(target)) { cd.textContent = ""; return; }
+      if (diff <= 0) { cd.textContent = "Kicking off!"; return; }
+      var d = Math.floor(diff / 86400000);
+      var h = Math.floor((diff % 86400000) / 3600000);
+      var m = Math.floor((diff % 3600000) / 60000);
+      var s = Math.floor((diff % 60000) / 1000);
+      cd.textContent =
+        (d > 0 ? d + "d " : "") +
+        (h > 0 || d > 0 ? h + "h " : "") +
+        m + "m " + s + "s";
+    };
+
+    tick();
+    setInterval(tick, 1000);
+  }
+})();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+{
+  "_comment": "Curated team + featured-player content. Team `key` matches the opponent name in the official Plymouth State schedule feed. `logo` may be empty for teams without an ESPN logo; the site falls back to a colored monogram. All player stats are 2026 season-to-date (through Oct. 5, 2026) sourced from MASCAC conference leaders and each school's official cumulative stats.",
+  "teams": [
+    {
+      "key": "Plymouth State",
+      "self": true,
+      "fullName": "Plymouth State Panthers",
+      "shortName": "Plymouth State",
+      "mascot": "Panthers",
+      "color": "#054e39",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2972.png",
+      "site": "https://athletics.plymouth.edu",
+      "player": {
+        "name": "TJ Taveras",
+        "position": "DL",
+        "classYear": "Sr.",
+        "hometown": "Rochester, N.H.",
+        "statLine": "19 tackles · 6.0 TFL · 3.5 sacks (MASCAC best)",
+        "blurb": "Taveras has been the Panthers' tone-setter on defense, leading the MASCAC with 3.5 sacks while tying for second in the conference with 6.0 tackles for loss. The senior defensive lineman posted a season-high 11 tackles and 3.5 TFL in Plymouth State's 14–0 Homecoming shutout of Dean, and he has added six quarterback hurries and a forced fumble."
+      }
+    },
+    {
+      "key": "New England College",
+      "fullName": "New England College Pilgrims",
+      "shortName": "New England Col.",
+      "mascot": "Pilgrims",
+      "color": "#002B5C",
+      "logo": "",
+      "site": "https://athletics.nec.edu",
+      "player": {
+        "name": "Ethan Cenesca",
+        "position": "LB",
+        "statLine": "63 tackles · 11.5 TFL · 2 INT · 2 FF",
+        "blurb": "Cenesca has been a bright spot for the Pilgrims, racking up 63 total tackles (34 solo) to go with 11.5 tackles for loss, 2.0 sacks, two interceptions and two forced fumbles in five games. He was at his best against Plymouth State on Sept. 5, when he recorded 13 tackles and 4.5 TFL in the season opener."
+      }
+    },
+    {
+      "key": "Worcester State",
+      "fullName": "Worcester State Lancers",
+      "shortName": "Worcester St.",
+      "mascot": "Lancers",
+      "color": "#004b8e",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/402.png",
+      "site": "https://wsulancers.com",
+      "player": {
+        "name": "M.J. Bakaysa",
+        "position": "QB",
+        "statLine": "1,212 pass yds (MASCAC best) · 11 TD",
+        "blurb": "Bakaysa directs one of the MASCAC's most productive passing attacks, leading the conference with 1,212 passing yards and 11 touchdowns while averaging 242.4 yards per game. The Lancers' quarterback threw for 191 yards and two scores in Worcester State's 28–6 win over Plymouth State on Sept. 12."
+      }
+    },
+    {
+      "key": "Bridgewater State",
+      "fullName": "Bridgewater State Bears",
+      "shortName": "Bridgewater St.",
+      "mascot": "Bears",
+      "color": "#bf2f38",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/18.png",
+      "site": "https://www.bsubears.com",
+      "player": {
+        "name": "Jayden Barber",
+        "position": "QB",
+        "statLine": "71.8% completions · 184.0 rating · 7 TD",
+        "blurb": "Barber has been the MASCAC's most efficient quarterback, topping the conference in completion percentage (71.8%) and pass efficiency rating (184.0). He has thrown for 697 yards and seven touchdowns and averages 7.8 yards per carry, and he led the Bears to a 35–7 win at Plymouth State on Sept. 19."
+      }
+    },
+    {
+      "key": "Dean",
+      "fullName": "Dean College Bulldogs",
+      "shortName": "Dean",
+      "mascot": "Bulldogs",
+      "color": "#8C1D2C",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/110438.png",
+      "site": "https://deanbulldogs.com",
+      "player": {
+        "name": "Chris Donohue",
+        "position": "QB",
+        "statLine": "102 completions (MASCAC best) · 716 yds · 179.0 ypg",
+        "blurb": "Donohue keeps the Bulldogs' offense moving, leading the MASCAC with 102 completions on 156 attempts (65.4%) for 716 yards and three touchdowns. Against Plymouth State on Oct. 3 he completed 23 of 28 passes and also ran 26 times, accounting for most of Dean's offense in a 14–0 loss."
+      }
+    },
+    {
+      "key": "Mass. Maritime",
+      "fullName": "Mass. Maritime Buccaneers",
+      "shortName": "Mass. Maritime",
+      "mascot": "Buccaneers",
+      "color": "#212c62",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/110.png",
+      "site": "https://www.mmabucs.com",
+      "player": {
+        "name": "Joseph Schwartz",
+        "position": "RB",
+        "statLine": "4 rush TD · 131 yds · 6.2 avg",
+        "blurb": "Schwartz has been the Buccaneers' finisher in the red zone, scoring a team-high four rushing touchdowns in just three games. The running back has turned 21 carries into 131 yards (6.2 per attempt) with a long run of 23 yards."
+      }
+    },
+    {
+      "key": "Westfield State",
+      "fullName": "Westfield State Owls",
+      "shortName": "Westfield St.",
+      "mascot": "Owls",
+      "color": "#1b509e",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2909.png",
+      "site": "https://westfieldstateowls.com",
+      "player": {
+        "name": "Malachi Hymes",
+        "position": "WR",
+        "statLine": "4 rec TD (MASCAC co-leader) · 291 yds · 72.8 ypg",
+        "blurb": "Hymes is the Owls' top big-play target, tying for the MASCAC lead with four touchdown receptions while piling up 291 receiving yards (72.8 per game). He has been Westfield State's most reliable option in the passing game this season."
+      }
+    },
+    {
+      "key": "Framingham State",
+      "fullName": "Framingham State Rams",
+      "shortName": "Framingham St.",
+      "mascot": "Rams",
+      "color": "#B31B34",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2967.png",
+      "site": "https://fsurams.com",
+      "player": {
+        "name": "Michael Marcucella",
+        "position": "QB",
+        "statLine": "875 yds · 7 TD · 291.7 ypg (MASCAC best)",
+        "blurb": "Marcucella has lit up opposing defenses, leading the MASCAC with 291.7 passing yards per game while throwing for 875 yards and seven touchdowns with a 164.7 efficiency rating in three games. The Rams' quarterback owns the conference's highest per-game passing average by more than 49 yards."
+      }
+    },
+    {
+      "key": "Fitchburg State",
+      "fullName": "Fitchburg State Falcons",
+      "shortName": "Fitchburg St.",
+      "mascot": "Falcons",
+      "color": "#024d36",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/114.png",
+      "site": "https://fscfalcons.com",
+      "player": {
+        "name": "Reshawn Stewart",
+        "position": "RB",
+        "statLine": "550 yds · 137.5 ypg · 7.1 avg",
+        "blurb": "Stewart has been one of the MASCAC's premier rushers, gaining 550 yards on 78 carries (7.1 per attempt) for 137.5 yards per game. The Falcons' running back sits second in the conference in both rushing yards and rushing yards per game."
+      }
+    },
+    {
+      "key": "UMass Dartmouth",
+      "fullName": "UMass Dartmouth Corsairs",
+      "shortName": "UMass Dartmouth",
+      "mascot": "Corsairs",
+      "color": "#003DA5",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/379.png",
+      "site": "https://corsairathletics.com",
+      "player": {
+        "name": "Mekhi Wilson",
+        "position": "RB",
+        "statLine": "575 yds (MASCAC best) · 6 TD · 143.8 ypg",
+        "blurb": "Wilson leads the MASCAC in rushing, piling up 575 yards on 83 carries (6.9 per attempt) and scoring six touchdowns while averaging 143.8 yards per game. The Corsairs' running back ripped off a 76-yard run and has been the conference's most productive back so far this season."
+      }
+    },
+    {
+      "key": "Norwich",
+      "exhibition": true,
+      "fullName": "Norwich University Cadets",
+      "shortName": "Norwich",
+      "mascot": "Cadets",
+      "color": "#6E1C2A",
+      "logo": "",
+      "site": "http://www.norwichathletics.com"
+    }
+  ]
+}
