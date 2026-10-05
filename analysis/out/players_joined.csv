@@ -1,0 +1,634 @@
+team,name,norm,position,pos_group,class_year,major_raw,major,gp,off,def,st,total,pass_yds,rush_yds,rec_yds,pass_td,rush_td,rec_td,tkl_tot,tfl,sacks,ints,z,top_quartile
+Plymouth St.,Dom Martone,dom martone,DB,DB,Fr.,Business,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Plymouth St.,Robbie Engel,robbie engel,DB,DB,Jr.,Marketing,Marketing,3.0,0.0,52.0,5.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.23,0
+Plymouth St.,Jayden Graham,jayden graham,RB,RB,So.,Business,"Business, Finance & Accounting",4.0,358.0,0.0,0.0,358.0,0.0,335.0,11.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.525,1
+Plymouth St.,Greg Berthiaume,greg berthiaume,DB,DB,Sr.,Business Administration,"Business, Finance & Accounting",1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.96,0
+Plymouth St.,DJ DiCarlo,dj dicarlo,DB,DB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Plymouth St.,Rocky Marchitelli,rocky marchitelli,QB,QB,Sr.,Business Administration,"Business, Finance & Accounting",3.0,205.0,0.0,0.0,205.0,171.0,22.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.098,0
+Plymouth St.,Ben Brown,ben brown,DB,DB,Jr.,English Education,Education,4.0,0.0,88.0,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,3.0,1.0,0.0,1.05,1
+Plymouth St.,Bryce  Todd,bryce todd,DB,DB,Fr.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Plymouth St.,Matt Phillips,matt phillips,WR,WR/TE,Jr.,Exercise and Sport Physiology,Sport Management & Recreation,4.0,31.0,4.0,131.0,166.0,0.0,0.0,31.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.724,1
+Plymouth St.,Joey Donati,joey donati,WR,WR/TE,Fr.,Undeclared,Undeclared,2.0,30.0,0.0,0.0,30.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.509,0
+Plymouth St.,TJ Taveras,tj taveras,DL,DL,Sr.,Information Technology,Computer Science & IT,4.0,0.0,153.0,0.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,6.0,3.5,0.0,2.944,1
+Plymouth St.,Luke Beaulac,luke beaulac,DB,DB,Jr.,Criminal Justice,Criminal Justice,4.0,0.0,87.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,2.0,0.0,0.0,1.023,1
+Plymouth St.,Daelon Bond-Streater,daelon streater,DB,DB,Fr.,Allied Health Sciences,Nursing & Health,4.0,0.0,60.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,1.0,0.309,0
+Plymouth St.,Mason Riina,mason riina,RB,RB,So.,Exercise and Sport Physiology,Sport Management & Recreation,1.0,10.0,0.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.677,0
+Plymouth St.,Hunter  Trueman,hunter trueman,WR,WR/TE,Jr.,Finance,"Business, Finance & Accounting",3.0,34.0,12.0,0.0,46.0,0.0,0.0,34.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.364,0
+Plymouth St.,Chris McCarthy,chris mccarthy,WR,WR/TE,Jr.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Alex St. Hilaire,alex hilaire,DB,DB,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Plymouth St.,Ben Cook,ben cook,DB,DB,Fr.,Accounting,"Business, Finance & Accounting",2.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.045,0
+Plymouth St.,Richie Trotman,richie trotman,QB,QB,Fr.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Plymouth St.,Connor Graham,connor graham,DB,DB,Sr.,Business Administration,"Business, Finance & Accounting",1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-1.066,0
+Plymouth St.,Colton Lefebvre,colton lefebvre,QB,QB,Fr.,"Sports Management, Communications",Sport Management & Recreation,3.0,76.0,0.0,0.0,76.0,74.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.492,0
+Plymouth St.,Grady Pfefferkorn,grady pfefferkorn,DB,DB,Fr.,Nursing,Nursing & Health,1.0,0.0,40.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,-0.22,0
+Plymouth St.,Tyler Umhoefer,tyler umhoefer,RB,RB,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Brendan  Kelly,brendan kelly,LB,LB,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Reece Davis,reece davis,RB,RB,Sr.,Finance,"Business, Finance & Accounting",4.0,326.0,4.0,0.0,330.0,0.0,266.0,48.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.348,1
+Plymouth St.,Aidan Fritz,aidan fritz,LB,LB,Sr.,Exercise and Sport Physiology,Sport Management & Recreation,2.0,0.0,41.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.5,0.0,0.0,-0.227,0
+Plymouth St.,Seid Djalla,seid djalla,DB,DB,So.,Business Administration,"Business, Finance & Accounting",3.0,0.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,-0.643,0
+Plymouth St.,Isaiah Hardin,isaiah hardin,DB,DB,Fr.,Undeclared,Undeclared,3.0,0.0,31.0,8.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.5,0.0,0.0,-0.246,0
+Plymouth St.,Beau Fellows,beau fellows,WR,WR/TE,Sr.,Psychology,Social Sciences,4.0,48.0,4.0,12.0,64.0,0.0,0.0,48.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.201,0
+Plymouth St.,Carl Lucy,carl lucy,RB,RB,Fr.,Business,"Business, Finance & Accounting",3.0,10.0,4.0,6.5,20.5,0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.61,0
+Plymouth St.,Tyler  Holcomb,tyler holcomb,LB,LB,Sr.,Sports Management,Sport Management & Recreation,4.0,0.0,135.0,0.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,3.0,0.5,1.0,1.595,1
+Plymouth St.,Sean Vega,sean vega,RB,RB,So.,Cybersecurity,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Ben Valenti,ben valenti,RB,RB,Fr.,Nursing,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Alejandro Rauth,alejandro rauth,LB,LB,So.,Business Administration,"Business, Finance & Accounting",3.0,0.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,-0.401,0
+Plymouth St.,Josh Phillips,josh phillips,RB,RB,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,4.0,50.0,0.0,0.0,50.0,0.0,32.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,-0.424,0
+Plymouth St.,Christian McGarry,christian mcgarry,DL,DL,Jr.,Business,"Business, Finance & Accounting",2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.729,0
+Plymouth St.,Athan Eggleston,athan eggleston,RB,RB,Fr.,Physical and Health Education,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Lucas Tremblay,lucas tremblay,RB,RB,Sr.,Criminology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,McCade Cummings,mccade cummings,RB,RB,Fr.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Ryland Raudelunas,ryland raudelunas,RB,RB,Fr.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Drake  Dumont,drake dumont,RB,RB,Fr.,Business Administration,"Business, Finance & Accounting",3.0,29.0,0.0,0.0,29.0,0.0,8.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.556,0
+Plymouth St.,Matt Moudarri,matt moudarri,RB,RB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Shawn  Waters,shawn waters,DB,DB,Fr.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Plymouth St.,Francesco  Lopriore,francesco lopriore,RB,RB,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Morris Selmani,morris selmani,LB,LB,So.,Finance,"Business, Finance & Accounting",2.0,0.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,-0.711,0
+Plymouth St.,Ricky  Phom,ricky phom,DB,DB,Fr.,Business,"Business, Finance & Accounting",3.0,0.0,44.0,12.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.203,0
+Plymouth St.,Adam Coletti,adam coletti,TE,WR/TE,Sr.,Business Administration,"Business, Finance & Accounting",2.0,28.0,15.0,0.0,43.0,0.0,0.0,22.0,0.0,0.0,1.0,3.0,0.5,0.0,0.0,-0.391,0
+Plymouth St.,Hunter Burke,hunter burke,LB,LB,Jr.,Criminal Justice,Criminal Justice,4.0,0.0,86.0,0.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,1.0,0.0,0.0,0.645,0
+Plymouth St.,Jonah Feliciano,jonah feliciano,LB,LB,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Mason Twitchell,mason twitchell,LB,LB,Jr.,Business Management,"Business, Finance & Accounting",1.0,0.0,0.0,8.5,8.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.856,0
+Plymouth St.,Drew Cakouros,drew cakouros,RB,RB,Sr.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Will Maynard,will maynard,RB,RB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Jayden Moreau,jayden moreau,LB,LB,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Thomas Tierney,thomas tierney,OL,OL,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Jack Walsh,jack walsh,OL,OL,Jr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Alejandro  Foden,alejandro foden,LB,LB,Fr.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Jake Beaudry,jake beaudry,LB,LB,Fr.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Pierce Heim,pierce heim,DL,DL,Sr.,Biology,Natural Sciences,1.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,-0.425,0
+Plymouth St.,Dylan Kudym,dylan kudym,DB,DB,Fr.,Physical Therapy,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Plymouth St.,Connor Dickson,connor dickson,LB,LB,Fr.,Communications and Media Studies,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Landon Murphy,landon murphy,LB,LB,Fr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Plymouth St.,Braydon McMath,braydon mcmath,OL,OL,Fr.,Physical and Health Education,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Jacob Laird,jacob laird,OL,OL,Jr.,Mathematics,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Liam Macomber,liam macomber,OL,OL,Fr.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Anthony  Magri,anthony magri,OL,OL,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,"Nate Pickup, Jr.",nate pickup,DL,DL,So.,Marketing,Marketing,2.0,0.0,25.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.5,0.0,0.0,-0.298,0
+Plymouth St.,Aiden Saada,aiden saada,DL,DL,Fr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Plymouth St.,Jack Claeys,jack claeys,OL,OL,Sr.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Frank Kasall,frank kasall,OL,OL,Fr.,Athletic Training,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Jacob Desilets,jacob desilets,OL,OL,Fr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Courtney Roberts,courtney roberts,DL,DL,Fr.,Adventure Education,Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Plymouth St.,Giovanni Maldanis-Martinez,giovanni martinez,OL,OL,So.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Jack  McCarthy,jack mccarthy,OL,OL,Fr.,Exercise and Sport Physiology,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Erik Williams,erik williams,K/P,K/P,Fr.,Police Studies,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Plymouth St.,Drew Dilorio,drew dilorio,OL,OL,Fr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Jason Osborne,jason osborne,OL,OL,Sr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Colton Kowalski,colton kowalski,OL,OL,So.,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Logan Murphy,logan murphy,OL,OL,So.,Social Work,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Plymouth St.,Joe Reed,joe reed,TE,WR/TE,So.,Political Science,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Erik Chiappa,erik chiappa,WR,WR/TE,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Owen McNair,owen mcnair,WR,WR/TE,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Braeden Ayers,braeden ayers,WR,WR/TE,Fr.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Noah Pasterczyk,noah pasterczyk,RB,RB,So.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Plymouth St.,Brendan Lynch,brendan lynch,TE,WR/TE,Jr.,Physical and Health Education,Exercise & Sport Science,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Jake Schuff,jake schuff,WR,WR/TE,Fr.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Brady DiRobbio,brady dirobbio,WR,WR/TE,Fr.,Robotics,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Connor Adams,connor adams,TE,WR/TE,Jr.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Brendan MacPhee,brendan macphee,WR,WR/TE,Fr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Shane McCormick,shane mccormick,DL,DL,Jr.,"Finance, Accounting",Other,4.0,0.0,69.0,0.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,3.0,1.5,0.0,0.816,1
+Plymouth St.,Jacob Daigle,jacob daigle,DL,DL,Jr.,Business,"Business, Finance & Accounting",4.0,0.0,49.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.5,0.0,0.31,1
+Plymouth St.,Ryan Bryant,ryan bryant,K/P,K/P,Fr.,Cyber Security,Other,2.0,0.0,0.0,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.323,0
+Plymouth St.,Seamus Ross,seamus ross,K/P,K/P,Jr.,Sports Management,Sport Management & Recreation,2.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.208,0
+Plymouth St.,Jack Hashem,jack hashem,DL,DL,So.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Plymouth St.,Massimo Puddu,massimo puddu,K/P,K/P,So.,Business Administration,"Business, Finance & Accounting",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Plymouth St.,Alex Figueroa,alex figueroa,TE,WR/TE,So.,Business Marketing,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Plymouth St.,Joe Cabanita,joe cabanita,K/P,K/P,Fr.,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Plymouth St.,Joe Marascio,joe marascio,K/P,K/P,So.,Business Administration,"Business, Finance & Accounting",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Plymouth St.,Gage Berry,gage berry,DL,DL,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Plymouth St.,Jimmy Nelson,jimmy nelson,DL,DL,Fr.,Criminal Justice,Criminal Justice,2.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.628,0
+Dean,Dylan Cobb,dylan cobb,LB,LB,Fy.,,Not reported,2.0,0.0,25.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.5,0.0,0.0,-0.537,0
+Dean,Jomar Lopes,jomar lopes,WR,WR/TE,Fy.,,Not reported,2.0,64.0,4.0,0.0,68.0,0.0,0.0,64.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.164,0
+Dean,Darrion Kimball,darrion kimball,WR,WR/TE,Sr.,Marketing,Marketing,4.0,165.0,4.0,0.0,169.0,0.0,6.0,153.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.751,1
+Dean,Jamal Palmer,jamal palmer,DB,DB,So.,,Not reported,4.0,0.0,87.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,1.0,0.0,1.0,1.023,1
+Dean,Tay Sholtz,tay sholtz,WR,WR/TE,So.,,Not reported,4.0,203.0,0.0,0.0,203.0,0.0,-9.0,206.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.059,1
+Dean,Jah'mir Walker,jahmir walker,DB,DB,Fy.,,Not reported,3.0,0.0,51.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.071,0
+Dean,Da'Qwon Foster,daqwon foster,WR,WR/TE,Sr.,Athletic Coaching and Recreation Management,Other,4.0,208.0,0.0,0.0,208.0,53.0,4.0,145.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.105,1
+Dean,Shane Maupin,shane maupin,DL,DL,Fy.,,Not reported,3.0,0.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.5,0.0,0.0,-0.552,0
+Dean,Jay Butler,jay butler,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Von Pemberton,von pemberton,LB,LB,Sr.,Sport Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Dean,Chris Donohue,chris donohue,QB,QB,Sr.,,Not reported,4.0,902.0,0.0,0.0,902.0,716.0,103.0,53.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,2.031,1
+Dean,AJ Newman,aj newman,LB,LB,Fy.,,Not reported,4.0,0.0,36.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,-0.323,0
+Dean,Vonte Burke,vonte burke,DB,DB,So.,,Not reported,4.0,0.0,62.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.5,0.0,0.0,0.362,0
+Dean,Josiah Morales,josiah morales,QB,QB,Sr.,Exercise Science,Exercise & Sport Science,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.711,0
+Dean,Dante Dicks,dante dicks,DB,DB,Sr.,Sport Management,Sport Management & Recreation,1.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.749,0
+Dean,Yasir Moses,yasir moses,RB,RB,So.,,Not reported,4.0,235.0,0.0,20.5,255.5,0.0,170.0,59.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.877,1
+Dean,J'Shaun Reddin,jshaun reddin,QB,QB,So.,,Not reported,1.0,10.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.693,0
+Dean,Chris Testa,chris testa,DB,DB,So.,,Not reported,1.0,0.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,-0.643,0
+Dean,Gabe Fraga,gabe fraga,QB,QB,So.,,Not reported,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.687,0
+Dean,Zayvion Stanley,zayvion stanley,DL,DL,Sr.,,Not reported,4.0,0.0,96.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,1.5,1
+Dean,Tye Davis,tye davis,DB,DB,Fy.,,Not reported,3.0,0.0,39.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,-0.246,0
+Dean,Spencer Ferullo,spencer ferullo,WR,WR/TE,Sr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Nick Levine,nick levine,QB,QB,Sr.,Sport Management,Sport Management & Recreation,2.0,-4.0,4.0,0.0,0.0,0.0,-4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.724,0
+Dean,Jonas Petrokansky,jonas petrokansky,WR,WR/TE,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Nyrel Norris,nyrel norris,WR/QB,QB,So.,,Not reported,2.0,4.0,0.0,59.0,63.0,0.0,-2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.531,0
+Dean,Chris Carter,chris carter,LB/DB,LB,So.,,Not reported,3.0,0.0,62.0,1.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,0.0,0.0,0.2,0
+Dean,Colin Brady,colin brady,DB,DB,So.,Marketing,Marketing,4.0,0.0,84.0,0.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.944,1
+Dean,Connor Schipritt,connor schipritt,QB,QB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Dean,Brennan O'Brien,brennan obrien,TE,WR/TE,So.,,Not reported,3.0,76.0,0.0,0.0,76.0,0.0,0.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.092,0
+Dean,Bryson Evans,bryson evans,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Malachi Hayes,malachi hayes,WR/RB,RB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Dean,Adam Chisari,adam chisari,RB,RB,Fy.,,Not reported,3.0,-1.0,0.0,10.5,9.5,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.68,0
+Dean,Jason Turcios,jason turcios,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Rassian Williams,rassian williams,DB,DB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Dean,Jadien Walker,jadien walker,LB/DL,DL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Dean,Ulysses Lopez-King,ulysses king,LB,LB,Jr.,Exercise Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Dean,Justin Gomez,justin gomez,DB,DB,Fy.,,Not reported,3.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.749,0
+Dean,Dre Chaney,dre chaney,WR,WR/TE,Fy.,,Not reported,1.0,5.0,0.0,0.0,5.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.736,0
+Dean,Cameron Holloman,cameron holloman,DB/RB,RB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Dean,Matt Cordaro,matt cordaro,DB,DB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Dean,Addison Brown,addison brown,DB/LB,LB,So.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Dean,Taj Byrd-Breazeale,taj breazeale,RB,RB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Dean,Herman Esquivel Mendez,herman mendez,LB,LB,Sr.,Sport Management,Sport Management & Recreation,4.0,0.0,150.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,3.0,0.0,0.0,1.885,1
+Dean,Arion Walkup,arion walkup,DB,DB,Fy.,,Not reported,2.0,0.0,4.0,19.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.669,0
+Dean,Yandel Diaz,yandel diaz,RB,RB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Dean,Ethan Richards,ethan richards,DB,DB,Jr.,Sports Broadcasting,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Dean,Koshown Dempsey,koshown dempsey,DL,DL,Sr.,Sport Management/Sports Broadcasting,Sport Management & Recreation,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Dean,Mar Smith,mar smith,LB,LB,So.,Business Management,"Business, Finance & Accounting",4.0,0.0,47.0,0.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.5,0.0,0.0,-0.11,0
+Dean,Emmett Sheehan,emmett sheehan,DB,DB,Fy.,,Not reported,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-1.066,0
+Dean,Aviren Chitpaseuth,aviren chitpaseuth,LB,LB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Dean,Jason Noble,jason noble,K/P,K/P,Fy.,,Not reported,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Dean,Ethan Suzedelis,ethan suzedelis,LB,LB,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Dean,Noah Benzant,noah benzant,OL,OL,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Kesley Cadet,kesley cadet,DL/LB,DL,So.,,Not reported,2.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Dean,Derek Watson,derek watson,DL/OL,OL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Dillon West,dillon west,LB/DL,DL,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Dean,Antonio Crank,antonio crank,DL,DL,Fy.,,Not reported,4.0,0.0,60.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0,0.0,0.0,0.588,1
+Dean,Braeden Hadley,braeden hadley,DL,DL,Fy.,,Not reported,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.628,0
+Dean,Brad Walker,brad walker,LB,LB,Sr.,Sport Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Dean,Shane Mahan,shane mahan,DL,DL,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Dean,Parker Sipos,parker sipos,OL,OL,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Alex Dobson,alex dobson,OL,OL,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Santino Ferrante,santino ferrante,OL,OL,Jr.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.528,0
+Dean,Sean Delen,sean delen,OL,OL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Connor Burson,connor burson,OL,OL,Jr.,,Not reported,2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.122,0
+Dean,Shawn Pierre,shawn pierre,OL,OL,Fy.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.528,0
+Dean,Hunter Bowen,hunter bowen,OL,OL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Evan Coates,evan coates,OL,OL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Dean,Trystin Chadwick,trystin chadwick,TE,WR/TE,Fy.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Dean,Rex Boateng,rex boateng,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Tomas Karasik,tomas karasik,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,Jimmy Colwell,jimmy colwell,TE,WR/TE,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,John Harrison III,john harrison,WR,WR/TE,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Dean,JoJo Lopez,jojo lopez,DL,DL,Fy.,,Not reported,3.0,0.0,36.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,-0.02,0
+Dean,Matthew Srabian,matthew srabian,DL,DL,Fy.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Dean,Raul Leon,raul leon,DB,DB,Sr.,Criminal Justice and Homeland Security,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Jayson Dyer,jayson dyer,Running Back RB,RB,Fr.,Business,"Business, Finance & Accounting",3.0,274.0,4.0,68.5,346.5,0.0,262.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.452,1
+Mass.-Dartmouth,Effrem Gnepo,effrem gnepo,Defensive Lineman DL,DL,So.,Undeclared,Undeclared,1.0,0.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.5,0.0,0.0,-0.653,0
+Mass.-Dartmouth,Owen Dunker,owen dunker,Defensive Edge DE,DL,Sr.,Finance,"Business, Finance & Accounting",3.0,0.0,35.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.5,0.0,0.0,-0.045,0
+Mass.-Dartmouth,Jayden Francois,jayden francois,Wide Receiver WR,WR/TE,So.,Business,"Business, Finance & Accounting",3.0,206.0,0.0,0.0,206.0,0.0,0.0,200.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.087,1
+Mass.-Dartmouth,Bryant Lopes,bryant lopes,Defensive Back DB,DB,Sr.,Business Administration,"Business, Finance & Accounting",3.0,0.0,54.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,1.0,0.151,0
+Mass.-Dartmouth,Mekhi Wilson,mekhi wilson,Running Back RB,RB,Sr.,Communications,Communications & Media,3.0,420.0,4.0,0.0,424.0,0.0,364.0,26.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,1.943,1
+Mass.-Dartmouth,Anthony Diakite,anthony diakite,Defensive Back DB,DB,So.,Crime & Justice Studies,Other,3.0,0.0,44.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,-0.114,0
+Mass.-Dartmouth,Julius Martinez,julius martinez,Wide Receiver WR,WR/TE,So.,Undeclared,Undeclared,1.0,24.0,0.0,0.0,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.563,0
+Mass.-Dartmouth,Logan Gelinas,logan gelinas,Quarterback QB,QB,So.,Criminal Justice,Criminal Justice,2.0,76.0,0.0,0.0,76.0,74.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.492,0
+Mass.-Dartmouth,Xavier Lopes,xavier lopes,Defensive Back DB,DB,Sr.,Business Administration,"Business, Finance & Accounting",2.0,0.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.907,0
+Mass.-Dartmouth,Patrick Cranson,patrick cranson,Wide Receiver WR,WR/TE,So.,Business,"Business, Finance & Accounting",1.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.69,0
+Mass.-Dartmouth,Abdul Kareem,abdul kareem,Defensive Edge DE,DL,Jr.,Mechanical Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Matteo Pina,matteo pina,Defensive Back DB,DB,Jr.,Economics,Social Sciences,3.0,0.0,36.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,-0.325,0
+Mass.-Dartmouth,Ty Pindel,ty pindel,Quarterback QB,QB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Mass.-Dartmouth,Kenimar Noel,kenimar noel,Linebacker LB,LB,So.,Engineering,Other,3.0,0.0,89.0,0.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.5,0.0,0.0,0.704,0
+Mass.-Dartmouth,JC Petrongolo,jc petrongolo,Quarterback QB,QB,Sr.,Engineering,Other,3.0,573.0,4.0,0.0,577.0,547.0,2.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,1.038,1
+Mass.-Dartmouth,Jamaury Barr,jamaury barr,Wide Receiver WR,WR/TE,Jr.,Marketing,Marketing,1.0,0.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,-0.636,0
+Mass.-Dartmouth,Dylan Lykins,dylan lykins,Linebacker LB,LB,Jr.,Mechanical Engineering,Other,3.0,0.0,91.0,0.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,1.0,1.0,0.0,0.742,1
+Mass.-Dartmouth,Luke DeLangie,luke delangie,Tight End TE,WR/TE,Jr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Dwayne Julius,dwayne julius,Defensive Back DB,DB,So.,Business,"Business, Finance & Accounting",3.0,0.0,92.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0,0.0,2.0,1.156,1
+Mass.-Dartmouth,Jayden DaCruz,jayden dacruz,Linebacker LB,LB,Jr.,Undeclared,Undeclared,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.866,0
+Mass.-Dartmouth,KinKade Rubino,kinkade rubino,Wide Receiver WR,WR/TE,Jr.,Marketing,Marketing,3.0,49.0,20.0,0.0,69.0,0.0,0.0,49.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.155,0
+Mass.-Dartmouth,Lucas Figueiredo,lucas figueiredo,Defensive Lineman DL,DL,So.,Civil Engineering,Other,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.628,0
+Mass.-Dartmouth,Derek Lopes,derek lopes,Wide Receiver WR,WR/TE,Jr.,Engineering,Other,2.0,95.0,0.0,0.0,95.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0
+Mass.-Dartmouth,Jackson Hart,jackson hart,Quarterback QB,QB,So.,Business,"Business, Finance & Accounting",2.0,20.0,0.0,0.0,20.0,0.0,14.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-0.663,0
+Mass.-Dartmouth,Diego  Tavares,diego tavares,Defensive Back DB,DB,So.,Supply Chain Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Markus Andrews,markus andrews,Wide Receiver WR,WR/TE,So.,Marketing,Marketing,3.0,210.0,0.0,0.0,210.0,0.0,21.0,171.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,1.123,1
+Mass.-Dartmouth,Daniel Knowlton,daniel knowlton,Defensive Back DB,DB,Sr.,Accounting,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Mass.-Dartmouth,Karter Dickerson,karter dickerson,Quarterback QB,QB,Fr.,Undeclared,Undeclared,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.711,0
+Mass.-Dartmouth,Shane  Longin,shane longin,Defensive Back DB,DB,Sr.,Accounting,"Business, Finance & Accounting",1.0,0.0,31.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,-0.458,0
+Mass.-Dartmouth,Conner Robidoux,conner robidoux,Defensive Back DB,DB,Sr.,Nursing,Nursing & Health,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-1.066,0
+Mass.-Dartmouth,Norman Soullier,norman soullier,Wide Receiver WR,WR/TE,So.,Undeclared,Undeclared,2.0,30.0,4.0,0.0,34.0,0.0,0.0,30.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.473,0
+Mass.-Dartmouth,James Barnicle,james barnicle,Defensive Back DB,DB,Fr.,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Will Porter,will porter,Wide Receiver WR,WR/TE,So.,Computer Science,Computer Science & IT,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Mass.-Dartmouth,Andres Gibbs,andres gibbs,Defensive Back DB,DB,So.,Health and Society,Nursing & Health,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Mass.-Dartmouth,Branden Schenck,branden schenck,Tight End TE,WR/TE,Sr.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Leland Kelleher,leland kelleher,Running Back RB,RB,So.,Undeclared,Undeclared,1.0,29.0,0.0,0.0,29.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.556,0
+Mass.-Dartmouth,Nick Wood,nick wood,Defensive Edge DE,DL,So.,Business,"Business, Finance & Accounting",2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.729,0
+Mass.-Dartmouth,Jaylon Phifer,jaylon phifer,Defensive Edge DE,DL,Jr.,Sociology,Social Sciences,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.729,0
+Mass.-Dartmouth,Peter Popowich,peter popowich,Wide Receiver WR,WR/TE,Gr.,Data Science,Natural Sciences,3.0,10.0,4.0,4.0,18.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.618,0
+Mass.-Dartmouth,Sam Joseph,sam joseph,Linebacker LB,LB,Jr.,Undeclared,Undeclared,2.0,0.0,52.0,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,1.0,0.0,-0.013,0
+Mass.-Dartmouth,Chris Soto,chris soto,Running Back RB,RB,Fr.,Business,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.715,0
+Mass.-Dartmouth,John  Brevil,john brevil,Defensive Back DB,DB,So.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Christian Morales,christian morales,Running Back RB,RB,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Mass.-Dartmouth,Jay Cahow,jay cahow,Wide Receiver WR,WR/TE,So.,Pre-Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Prince Woods,prince woods,Defensive Back DB,DB,So.,Computer Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Julien Bush,julien bush,Defensive Edge DE,DL,Jr.,Mechanical Engineering,Other,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.729,0
+Mass.-Dartmouth,Carlos Cruz,carlos cruz,Running Back RB,RB,So.,Interior Architecture,Other,1.0,10.0,4.0,0.0,14.0,0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.651,0
+Mass.-Dartmouth,Bernardo Bannis,bernardo bannis,Linebacker LB,LB,Fr.,Undeclared,Undeclared,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Mass.-Dartmouth,Antoine Williams,antoine williams,Running Back RB,RB,Fr.,Psychology,Social Sciences,1.0,0.0,0.0,15.5,15.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.642,0
+Mass.-Dartmouth,Zymari Bailey,zymari bailey,Linebacker LB,LB,Fr.,Business,"Business, Finance & Accounting",1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.788,0
+Mass.-Dartmouth,Danny Cummings,danny cummings,Defensive Lineman DL,DL,Sr.,Crime and Justice,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Marvins Antoine,marvins antoine,Running Back RB,RB,Fr.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Mass.-Dartmouth,Ben Tran,ben tran,Linebacker LB,LB,Jr.,Health and Society,Nursing & Health,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Mass.-Dartmouth,Dan Lawrence,dan lawrence,Defensive Back DB,DB,Fr.,Cybersecurity,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Connor McManus,connor mcmanus,Kicker/Punter K/P,K/P,Jr.,Business,"Business, Finance & Accounting",3.0,0.0,0.0,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.71,1
+Mass.-Dartmouth,Christian Acosta,christian acosta,Defensive Back DB,DB,Fr.,Communications,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Curtis  Briggs,curtis briggs,Running Back RB,RB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Mass.-Dartmouth,Gavin Butterfield,gavin butterfield,Defensive Back DB,DB,Fr.,Civil Engineering,Other,2.0,0.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.987,0
+Mass.-Dartmouth,Gabriel Luperon-Flecha,gabriel flecha,Running Back RB,RB,So.,Finance,"Business, Finance & Accounting",1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.689,0
+Mass.-Dartmouth,Tyler Gardner-Harris,tyler harris,Linebacker LB,LB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Jahnari Jackson,jahnari jackson,Defensive Back DB,DB,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Thaddeus Bloomfield,thaddeus bloomfield,Linebacker LB,LB,So.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Sulei Haji,sulei haji,Defensive Lineman DL,DL,Fr.,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Kavonni  Daniels,kavonni daniels,Defensive Edge DE,DL,So.,Physiology,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Jaden Edwards,jaden edwards,Defensive Back DB,DB,Jr.,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Terry Monnely,terry monnely,Defensive Back DB,DB,Fr.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Orville Ferguson,orville ferguson,Linebacker LB,LB,Fr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Tyler Jonte,tyler jonte,Defensive Edge DE,DL,So.,Finance,"Business, Finance & Accounting",2.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.425,0
+Mass.-Dartmouth,Ricardo Molinary,ricardo molinary,Defensive Back DB,DB,Fr.,College Now,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Dana Corliss,dana corliss,Linebacker LB,LB,Fr.,Crime & Justice Studies,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Adrian Rampino,adrian rampino,Defensive Edge DE,DL,Fr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Lucca Peres,lucca peres,Defensive Edge DE,DL,Jr.,Civil Engineering,Other,1.0,16.0,0.0,0.0,16.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.526,0
+Mass.-Dartmouth,Haggai Joseph,haggai joseph,Linebacker LB,LB,So.,Electrical Engineering,Other,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Mass.-Dartmouth,Wilderson Lafortune,wilderson lafortune,Defensive Lineman DL,DL,So.,Finance,"Business, Finance & Accounting",2.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,-0.425,0
+Mass.-Dartmouth,David Perez,david perez,Defensive Lineman DL,DL,Fr.,College Now,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Connor Bloom,connor bloom,Kicker/Punter K/P,K/P,Jr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Mass.-Dartmouth,Shalom Kyei,shalom kyei,Linebacker LB,LB,Fr.,Mechanical Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,JoJo Sadia,jojo sadia,Linebacker LB,LB,So.,General Business Administration,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Logan Peterson,logan peterson,Long Snapper LS,K/P,So.,Crime & Justice Studies,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Mass.-Dartmouth,Anthony Saccone,anthony saccone,Linebacker LB,LB,Fr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Tyler Alexander,tyler alexander,Defensive Edge DE,DL,Fr.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Donovan  Turner,donovan turner,Defensive Edge DE,DL,Jr.,Political Science,Natural Sciences,3.0,0.0,35.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.5,0.0,0.0,-0.045,0
+Mass.-Dartmouth,Cole Mirka,cole mirka,Defensive Edge DE,DL,Fr.,Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Luis Santos,luis santos,Offensive Lineman OL,OL,Sr.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Robert Tannenbaum,robert tannenbaum,Defensive Edge DE,DL,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Nate Gravelle,nate gravelle,Offensive Lineman OL,OL,Fr.,Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Ezrah  Hatcher,ezrah hatcher,Offensive Lineman OL,OL,Sr.,Mechanical Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Travis Gardner-Harris,travis harris,Offensive Lineman OL,OL,Fr.,Business,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.528,0
+Mass.-Dartmouth,Sebastian  Perez,sebastian perez,Offensive Lineman OL,OL,Sr.,Crime and Justice,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Oli Dede,oli dede,Tight End TE,WR/TE,Sr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Anthony Perez-Ventura,anthony ventura,Offensive Lineman OL,OL,Fr.,Nursing,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Ronald Annis,ronald annis,Offensive Lineman OL,OL,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Jaymani Ayuso,jaymani ayuso,Offensive Lineman OL,OL,Fr.,Crime & Justice Studies,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Cameron Griffey,cameron griffey,Offensive Lineman OL,OL,So.,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Cayden Blaschik,cayden blaschik,Offensive Lineman OL,OL,Jr.,Mechanical Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Timothy  Zibrida,timothy zibrida,Offensive Lineman OL,OL,Jr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Jasper Chakouian,jasper chakouian,Tight End TE,WR/TE,Jr.,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Vernon Charles,vernon charles,Offensive Lineman OL,OL,Fr.,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Joel Rivera,joel rivera,Offensive Lineman OL,OL,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Chris Young,chris young,Offensive Lineman OL,OL,Fr.,Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Tyrell Harris,tyrell harris,Offensive Lineman OL,OL,So.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Henry Morse,henry morse,Offensive Lineman OL,OL,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Patrick Sennott,patrick sennott,Offensive Lineman OL,OL,Sr.,History,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Aiden Joseph,aiden joseph,Offensive Lineman OL,OL,So.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Saint Eriq Adianawo,saint adianawo,Offensive Lineman OL,OL,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Kevin Moura,kevin moura,Offensive Lineman OL,OL,Sr.,Political Science,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Brayden  Cannon,brayden cannon,Offensive Lineman OL,OL,Fr.,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Patrick Daley,patrick daley,Offensive Lineman OL,OL,Sr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Ikenna St Marc,ikenna marc,Offensive Lineman OL,OL,Fr.,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Mass.-Dartmouth,Michael Neider,michael neider,Wide Receiver WR,WR/TE,Jr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Kensley Macean,kensley macean,Defensive Back DB,DB,Fr.,Business & Engineering,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Tristen Clark,tristen clark,Defensive Back DB,DB,Fr.,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Cyair Charles,cyair charles,Defensive Lineman DL,DL,So.,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Toluwani Agbojo,toluwani agbojo,Wide Receiver WR,WR/TE,Fr.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Masan Igisomar,masan igisomar,Wide Receiver WR,WR/TE,So.,Business,"Business, Finance & Accounting",1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.708,0
+Mass.-Dartmouth,Ish Kamara,ish kamara,Wide Receiver WR,WR/TE,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Isaiah  Augustus,isaiah augustus,Tight End TE,WR/TE,Sr.,Business,"Business, Finance & Accounting",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Davoun Almodovar,davoun almodovar,Tight End TE,WR/TE,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Ethan Grandin,ethan grandin,Tight End TE,WR/TE,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Mass.-Dartmouth,Jayden Medeiros,jayden medeiros,Defensive Back DB,DB,Fr.,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Mass.-Dartmouth,Rockson Thapa,rockson thapa,Defensive Lineman DL,DL,So.,Civil Engineering,Other,1.0,0.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,-0.526,0
+Mass.-Dartmouth,Jordan D'Amico,jordan damico,Defensive Edge DE,DL,Sr.,Chemistry,Natural Sciences,2.0,0.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.577,0
+Mass.-Dartmouth,Daniel Cordero,daniel cordero,Defensive Lineman DL,DL,Fr.,College Now,Other,3.0,0.0,54.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0,0.0,0.0,0.436,1
+Mass.-Dartmouth,Kobie Andino,kobie andino,Defensive Lineman DL,DL,Fr.,Business - College Now,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Mass.-Dartmouth,Nadir Johnson,nadir johnson,Defensive Lineman DL,DL,So.,Business,"Business, Finance & Accounting",3.0,0.0,36.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,1.0,0.0,-0.02,0
+Mass.-Dartmouth,John Marzuolo,john marzuolo,Linebacker LB,LB,Fr.,Business - Marketing,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Mass.-Dartmouth,Kaleb Normil,kaleb normil,Defensive Lineman DL,DL,Fr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Max Lisysyan,max lisysyan,Defensive Edge DE,DL,Fr.,Civil Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Mass.-Dartmouth,Hayden Ford,hayden ford,Defensive Lineman DL,DL,Fr.,Business,"Business, Finance & Accounting",2.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.628,0
+Mass.-Dartmouth,Ancil Alexander,ancil alexander,Defensive Lineman DL,DL,Jr.,Crime & Justice Studies,Other,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Worcester St.,Aidan Breen,aidan breen,TE,WR/TE,Sr.,Liberal Studies,Other,2.0,45.0,0.0,0.0,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.373,0
+Worcester St.,Joey Christian,joey christian,WR,WR/TE,Sr.,Business Administration,"Business, Finance & Accounting",3.0,105.0,4.0,0.0,109.0,0.0,0.0,99.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.207,1
+Worcester St.,Will Vogel,will vogel,LB,LB,Sr.,Business Management,"Business, Finance & Accounting",4.0,0.0,190.0,0.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,4.0,3.0,0.0,2.661,1
+Worcester St.,Lance Williams,lance williams,WR,WR/TE,Sr.,Public Health,Nursing & Health,4.0,534.0,4.0,0.0,538.0,0.0,89.0,403.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,4.096,1
+Worcester St.,MJ Bakaysa,mj bakaysa,QB,QB,Sr.,Business Administration,"Business, Finance & Accounting",4.0,1028.0,0.0,0.0,1028.0,969.0,7.0,-2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2.415,1
+Worcester St.,Bryan Aguilar,bryan aguilar,DB,DB,Sr.,Business Administration,"Business, Finance & Accounting",4.0,0.0,26.0,-0.5,25.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.603,0
+Worcester St.,Tridell Sharpe,tridell sharpe,DB,DB,Sr.,Business,"Business, Finance & Accounting",4.0,0.0,54.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,1.0,0.151,0
+Worcester St.,Jermaine Norfleet Jr.,jermaine norfleet,RB,RB,Sr.,Liberal Studies,Other,4.0,76.0,0.0,0.0,76.0,0.0,58.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,-0.259,0
+Worcester St.,Griffin Metcalf,griffin metcalf,DB,DB,Sr.,Business,"Business, Finance & Accounting",3.0,0.0,59.0,0.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.5,0.0,0.0,0.283,0
+Worcester St.,Noah Jodoin,noah jodoin,WR,WR/TE,Sr.,Business Administration,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Worcester St.,Alexander Burgos,alexander burgos,QB,QB,Fy.,Elementary Education,Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Yaniel Belliard,yaniel belliard,QB,QB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Rhett Darrah,rhett darrah,QB,QB,Jr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Trevin Guardarrama,trevin guardarrama,QB,QB,Fy.,Biotechnology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Ben Klein,ben klein,QB,QB,Sr./Jr.,Communication,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,DJ Leonard,dj leonard,DB,DB,Jr.,Business Administration,"Business, Finance & Accounting",3.0,0.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.431,0
+Worcester St.,Jack Poirier,jack poirier,WR,WR/TE,Jr.,Criminal Justice,Criminal Justice,3.0,205.0,0.0,0.0,205.0,0.0,0.0,181.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.077,1
+Worcester St.,Kellen Clarkson,kellen clarkson,QB,QB,So.,Public Health,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Joseph Derege,joseph derege,QB,QB,Fy.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Worcester St.,Ayden Davis,ayden davis,DB,DB,So.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Worcester St.,Sy'Air James,syair james,RB,RB,Sr.,Criminal Justice,Criminal Justice,3.0,36.0,0.0,0.0,36.0,0.0,33.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.512,0
+Worcester St.,Cam Goodrich,cam goodrich,LB,LB,Jr.,Criminal Justice,Criminal Justice,4.0,0.0,104.0,0.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,2.0,0.0,0.0,0.994,1
+Worcester St.,James Azzinaro,james azzinaro,WR,WR/TE,Sr.,Business,"Business, Finance & Accounting",2.0,114.0,0.0,10.0,124.0,0.0,0.0,114.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.343,1
+Worcester St.,Gavin Hatfield,gavin hatfield,RB,RB,Sr.,Business Management,"Business, Finance & Accounting",4.0,413.0,20.0,89.5,522.5,0.0,321.0,68.0,0.0,3.0,1.0,5.0,0.0,0.0,0.0,2.566,1
+Worcester St.,Patrick Dowd,patrick dowd,DB,DB,Jr.,Public Health,Nursing & Health,4.0,0.0,85.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,1.0,0.0,0.0,0.97,1
+Worcester St.,Damian Mitchell,damian mitchell,DB,DB,Sr.,Business Marketing,"Business, Finance & Accounting",4.0,0.0,117.0,0.0,117.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,1.0,0.0,1.0,1.817,1
+Worcester St.,Sam Grew,sam grew,RB,RB,Jr.,Business Administration/Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,John Doucette,john doucette,DB,DB,So.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Worcester St.,Joe Vasquez,joe vasquez,DB,DB,Jr.,Criminal Justice,Criminal Justice,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Worcester St.,Jesse Moran,jesse moran,RB,RB,So.,Business Administration/Political Science,"Business, Finance & Accounting",1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.689,0
+Worcester St.,Alfred Tennyson,alfred tennyson,DB,DB,Fy.,Business,"Business, Finance & Accounting",1.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.198,0
+Worcester St.,Trey Matthews,trey matthews,DB,DB,So.,Business,"Business, Finance & Accounting",4.0,0.0,78.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,0.0,0.0,0.785,1
+Worcester St.,DJ Gordon,dj gordon,DB,DB,Jr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Worcester St.,Carter Maple,carter maple,LB/DB,LB,Fy.,Undecided,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Worcester St.,TreChaun Days,trechaun days,RB/WR,RB,Fy.,Liberal Studies,Other,1.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.721,0
+Worcester St.,Marques Paul-Williams,marques williams,LB,LB,So.,Criminal Justice,Criminal Justice,3.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.633,0
+Worcester St.,Ali Kalle,ali kalle,RB,RB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,Seba Dumoulin,seba dumoulin,LB,LB,So.,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Worcester St.,Troy Rudder,troy rudder,DB,DB,Fy.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Worcester St.,Chris Cettie,chris cettie,DB,DB,Jr./Fy.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Worcester St.,Nixon Deleon,nixon deleon,RB/WR,RB,Fy.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,Jospeh Campbell,jospeh campbell,LB,LB,So.,Biology,Natural Sciences,2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.866,0
+Worcester St.,Tommy DeSimone,tommy desimone,LB,LB,Fy.,Undecided,Undeclared,4.0,0.0,66.0,0.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,1.0,0.0,0.258,0
+Worcester St.,Tyren Hoeun,tyren hoeun,RB,RB,Fy.,Public Health,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,Vinny Pino,vinny pino,LB,LB,Fy.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Worcester St.,Miguerson Renelus,miguerson renelus,LB,LB,So.,Public Health,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Worcester St.,Heyttor Nunes,heyttor nunes,DL,DL,Jr./So.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Worcester St.,Connor Fougere,connor fougere,TE/LB,WR/TE,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Worcester St.,Brian Melendez,brian melendez,LB,LB,Sr.,Business Administration,"Business, Finance & Accounting",4.0,0.0,116.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,1.227,1
+Worcester St.,Matthew Pinto,matthew pinto,RB/LB,RB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,Jio Roman,jio roman,DL,DL,Sr.,Criminal Justice,Criminal Justice,4.0,0.0,121.0,0.0,121.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,1.5,1.0,0.0,2.134,1
+Worcester St.,CJ Wright,cj wright,OL/DL,OL,Fy.,Secondary Education,Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Jaiden Timoleon,jaiden timoleon,LB,LB,Fy.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Worcester St.,Kenny Duperval,kenny duperval,OL,OL,Fy.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Jayden Pridgen,jayden pridgen,DL,DL,Jr.,History,Social Sciences,3.0,0.0,138.0,0.0,138.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,4.0,1.0,0.0,2.564,1
+Worcester St.,Ivan Bardales Diaz,ivan diaz,OL,OL,So.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Oscar Alvarez,oscar alvarez,OL,OL,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Jay Beauzil,jay beauzil,OL/DL,OL,So.,Business Administration,"Business, Finance & Accounting",1.0,0.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.096,1
+Worcester St.,Kellan Rahming,kellan rahming,OL,OL,Sr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Tony Sforza,tony sforza,OL,OL,Sr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Cameron Olivo,cameron olivo,OL,OL,Fy.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Gavin Delgado,gavin delgado,OL,OL,Jr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Jayden Wetherbee,jayden wetherbee,OL,OL,Jr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Worcester St.,Dominic DoCanto,dominic docanto,WR,WR/TE,Fy.,Business Administration,"Business, Finance & Accounting",2.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.69,0
+Worcester St.,Sebastian Rios,sebastian rios,K/P,K/P,Fy.,Business Administration,"Business, Finance & Accounting",4.0,-13.0,0.0,104.0,91.0,0.0,-13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.944,1
+Worcester St.,Thomas Lawton,thomas lawton,WR,WR/TE,Fy.,Business Administration,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Worcester St.,Kevin DiMuzio,kevin dimuzio,WR,WR/TE,Fy.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Worcester St.,Griffin Kiniry,griffin kiniry,WR/P,WR/TE,Sr.,Educational Studies,Education,4.0,52.0,4.0,0.0,56.0,0.0,0.0,52.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.273,0
+Worcester St.,Evan Cook,evan cook,WR,WR/TE,So.,Nursing,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Worcester St.,Tre'Son Meuse,treson meuse,RB/WR,RB,Fy.,Undecided,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Worcester St.,Malcom Oratokhai,malcom oratokhai,DL,DL,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Worcester St.,Bj Pile,bj pile,DL,DL,Fy.,Biology and Pharmacy,Natural Sciences,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Worcester St.,Edwin Blas,edwin blas,DL,DL,Jr./So.,Psychology,Social Sciences,3.0,0.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,0.0,0.0,0.031,0
+Worcester St.,Bobby Wright,bobby wright,DL,DL,Jr./So.,Digital Media Production,Other,4.0,0.0,78.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,1.044,1
+Framingham St.,Amari Williams,amari williams,DB,DB,Sr,Marketing,Marketing,3.0,0.0,78.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,0.0,0.0,0.785,1
+Framingham St.,Devine Johnson,devine johnson,CB,DB,Sr,Communication Arts,Communications & Media,3.0,0.0,110.0,0.0,110.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,5.0,2.0,0.0,1.632,1
+Framingham St.,Treyvon Fields,treyvon fields,DB,DB,Jr,Accounting,"Business, Finance & Accounting",3.0,0.0,67.0,0.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,2.0,0.494,0
+Framingham St.,Jarvin Simon,jarvin simon,RB,RB,Sr,Business &amp; IT,"Business, Finance & Accounting",2.0,17.0,0.0,0.0,17.0,0.0,9.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.632,0
+Framingham St.,James Wilder,james wilder,S,DB,Jr,Health &amp; Wellness,Nursing & Health,2.0,0.0,26.0,2.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,-0.537,0
+Framingham St.,Nick Quintina,nick quintina,LB,LB,Sr,Criminology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Adrian Sarrette,adrian sarrette,WR,WR/TE,Jr,Sports Management,Sport Management & Recreation,3.0,66.0,4.0,0.0,70.0,0.0,0.0,60.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,-0.146,0
+Framingham St.,Khalil Erazo,khalil erazo,DB,DB,Sr,Sports Management,Sport Management & Recreation,2.0,0.0,15.0,20.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.352,0
+Framingham St.,Ezana Zemene,ezana zemene,WR,WR/TE,Jr,Management,"Business, Finance & Accounting",3.0,72.0,0.0,0.0,72.0,0.0,0.0,66.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-0.128,0
+Framingham St.,Josiah Mitchell,josiah mitchell,DB,DB,Sr,Management,"Business, Finance & Accounting",3.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.749,0
+Framingham St.,Tyrese Herring,tyrese herring,LB,LB,Jr,Finance,"Business, Finance & Accounting",3.0,0.0,62.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,1.0,0.0,0.0,0.18,0
+Framingham St.,Alex Maia,alex maia,WR,WR/TE,Sr,Business &amp; IT,"Business, Finance & Accounting",3.0,82.0,4.0,0.0,86.0,0.0,0.0,82.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.001,0
+Framingham St.,Mathias Fowler,mathias fowler,WR,WR/TE,Sr,Marketing,Marketing,3.0,346.0,0.0,51.0,397.0,0.0,0.0,322.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,2.818,1
+Framingham St.,Zimari Omosefe,zimari omosefe,LB,LB,So,Criminology,Social Sciences,3.0,0.0,80.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,2.0,0.0,0.0,0.529,0
+Framingham St.,Ty Kelley,ty kelley,WR,WR/TE,Jr,Marketing,Marketing,3.0,37.0,0.0,72.0,109.0,0.0,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.207,1
+Framingham St.,Anthony Gerrior,anthony gerrior,QB,QB,So,Criminology,Social Sciences,1.0,8.0,0.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.699,0
+Framingham St.,Isaac Stubbs,isaac stubbs,LB,LB,So,Marketing,Marketing,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.788,0
+Framingham St.,Ayden Ramirez,ayden ramirez,WR,WR/TE,Sr,Finance,"Business, Finance & Accounting",3.0,129.0,0.0,0.0,129.0,0.0,0.0,123.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.389,1
+Framingham St.,Tyrell Fuller,tyrell fuller,DB,DB,Jr,Health &amp; Wellness,Nursing & Health,3.0,0.0,51.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,0.0,0.0,0.071,0
+Framingham St.,Stephen Gallant,stephen gallant,WR,WR/TE,Sr,Studio Art,Other,3.0,37.0,8.0,0.0,45.0,0.0,0.0,37.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.373,0
+Framingham St.,Sebastien Guillaume,sebastien guillaume,WR,WR/TE,Jr,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Ransford Adri,ransford adri,RB/QB,QB,So,Management,"Business, Finance & Accounting",3.0,127.0,0.0,6.0,133.0,0.0,95.0,26.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-0.318,0
+Framingham St.,Michael Marcucella,michael marcucella,QB,QB,So,Accounting,"Business, Finance & Accounting",3.0,895.0,4.0,5.0,904.0,875.0,-34.0,0.0,7.0,2.0,0.0,1.0,0.0,0.0,0.0,2.037,1
+Framingham St.,Nick Farley,nick farley,WR,WR/TE,Jr,Health &amp; Wellness,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Jelon King,jelon king,QB,QB,Fr,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Framingham St.,Zion Jackson,zion jackson,DB,DB,So,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Darenn Duclas,darenn duclas,DB,DB,So,Finance,"Business, Finance & Accounting",1.0,43.0,0.0,0.0,43.0,0.0,45.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.14,0
+Framingham St.,Max Whiting,max whiting,DB,DB,So,Management,"Business, Finance & Accounting",3.0,0.0,48.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,1.0,-0.008,0
+Framingham St.,Derick Coulanges,derick coulanges,DB,DB,Jr,Criminology,Social Sciences,3.0,0.0,49.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.0,0.018,0
+Framingham St.,Jeremiah Elie,jeremiah elie,DE,DL,So,Psychology,Social Sciences,3.0,0.0,55.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,1.5,0.0,0.462,1
+Framingham St.,Rovens Jean-Baptiste,rovens baptiste,HB,RB,So,Management,"Business, Finance & Accounting",2.0,0.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,-0.588,0
+Framingham St.,Xavier Beauchamp,xavier beauchamp,RB,RB,Fr,Health &amp; Wellness,Nursing & Health,3.0,147.0,0.0,0.0,147.0,0.0,126.0,15.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.19,0
+Framingham St.,Makoto Uchikawa,makoto uchikawa,RB,RB,Jr,Sports Management,Sport Management & Recreation,2.0,203.0,0.0,0.0,203.0,0.0,102.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.545,1
+Framingham St.,John Gucciardi,john gucciardi,LB,LB,So,Criminology,Social Sciences,2.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.633,0
+Framingham St.,Julius Patterson,julius patterson,DB,DB,Fr,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Nicholas Whitingham,nicholas whitingham,DB,DB,So,Undeclared,Undeclared,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Framingham St.,Lawrence Smith,lawrence smith,RB,RB,Fr,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Framingham St.,Justin Outlow,justin outlow,DB,DB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Turnbull Sturgis,turnbull sturgis,LB,LB,Sr,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Dom Sobers,dom sobers,LB,LB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Korrey Barron,korrey barron,DL,DL,Jr,Health &amp; Wellness,Nursing & Health,2.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.335,1
+Framingham St.,Philip Parizeau,philip parizeau,DB,DB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Jordan Cabbagestalk,jordan cabbagestalk,DL,DL,So,Psychology,Social Sciences,3.0,0.0,101.0,0.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,3.0,1.5,0.0,1.627,1
+Framingham St.,Nicholas Bilides,nicholas bilides,DB,DB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Arthur de Barros,arthur barros,K,K/P,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Framingham St.,Victor Flores,victor flores,DB,DB,Fr,Management,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Framingham St.,Isaac Castillo,isaac castillo,DB,DB,So,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Sahkai Barnes,sahkai barnes,RB,RB,So,Criminology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Framingham St.,Jeff Alisauskas,jeff alisauskas,RB,RB,Jr,Criminology,Social Sciences,1.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.708,0
+Framingham St.,Chad Harris,chad harris,LB,LB,Jr,Criminology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Colin McGough,colin mcgough,DB,DB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Melvon Crump,melvon crump,DB,DB,Jr,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Amare Fortes,amare fortes,DB,DB,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Framingham St.,Kayden Doubleday,kayden doubleday,DL,DL,Fr,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Luke Wile,luke wile,LB,LB,Fr,Criminology,Social Sciences,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Framingham St.,Jailen Givins-Osafo,jailen osafo,DL,DL,Fr,Pre-Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Giovanni Carvalho,giovanni carvalho,OL,OL,Fr,Criminology,Social Sciences,3.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,2.07,1
+Framingham St.,Tucker Moody,tucker moody,LB,LB,Fr,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Brandon Snyder,brandon snyder,P,K/P,Fr,Accounting,"Business, Finance & Accounting",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Framingham St.,Theo Clark,theo clark,OL,OL,Fr,Pre-Engineering,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Damon Uva,damon uva,DE,DL,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Joshua Louis,joshua louis,OL,OL,So,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Gus Speight,gus speight,LB,LB,Fr,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Framingham St.,Gabe Grzyboski,gabe grzyboski,DE,DL,Jr,Finance,"Business, Finance & Accounting",2.0,0.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,-0.324,0
+Framingham St.,Jaquin Fahnbulleh,jaquin fahnbulleh,DB,DB,Jr,Management,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Framingham St.,Tyler Holland,tyler holland,OL,OL,So,Pre-Dental,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Collin Harris,collin harris,OL,OL,Fr,Communication Arts,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Akiel Halliday,akiel halliday,OL,OL,Fr,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Armyi Hardy,armyi hardy,OL,OL,Jr,Business &amp; IT,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Garnet Bululu,garnet bululu,DL,DL,So,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Jayvon Tessier,jayvon tessier,OL,OL,Jr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Nigel Ampomah,nigel ampomah,OL,OL,Fr,Entrepreneurship,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Antonio Hernandez,antonio hernandez,OL,OL,Fr,Political Science,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Dylan Burdick,dylan burdick,OL,OL,Jr,Criminology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Richard O'Neil,richard oneil,OL,OL,So,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Jayden Seale,jayden seale,OL,OL,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Shaun Driscoll,shaun driscoll,OL,OL,So,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Jacoby Lorente,jacoby lorente,OL,OL,Fr,Health &amp; Wellness,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Nathan Berthony,nathan berthony,OL,OL,So,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Juan Perez,juan perez,OL,OL,Fr,International Business,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Framingham St.,Aidan Joffre,aidan joffre,OL,OL,So,Psychology,Social Sciences,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.528,0
+Framingham St.,Malikai McClure,malikai mcclure,WR,WR/TE,Fr,Health &amp; Wellness,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Floyd White,floyd white,WR,WR/TE,Fr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Nureini Mohamed,nureini mohamed,WR,WR/TE,Jr,Sports Management,Sport Management & Recreation,1.0,0.0,0.0,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.731,0
+Framingham St.,Dakari Eady,dakari eady,WR,WR/TE,Jr,Sports Management,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Andres Laureano Baez,andres baez,WR,WR/TE,Fr,Pre-Medicine,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Mason Morris,mason morris,TE,WR/TE,So,Communication Arts,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Timothy Vadnais,timothy vadnais,TE,WR/TE,Jr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Framingham St.,Doodley Pierre,doodley pierre,DE,DL,Fr,Finance,"Business, Finance & Accounting",1.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,-0.425,0
+Framingham St.,Jorgeluis Morales,jorgeluis morales,DL,DL,Jr,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Abdi Haji,abdi haji,DT,DL,So,Psychology,Social Sciences,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Framingham St.,AJ Largaespada,aj largaespada,DE,DL,So,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Isaac Bony,isaac bony,DE,DL,Fr,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Framingham St.,Raymond Gaddah,raymond gaddah,DT,DL,Fr,Criminology,Social Sciences,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.628,0
+Framingham St.,Christopher Islain,christopher islain,DT,DL,So,Marketing,Marketing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Fitchburg St.,Camren Topkin,camren topkin,LB,LB,Gr.,Education Studies,Education,4.0,0.0,158.0,0.0,158.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,1.5,0.0,0.0,2.04,1
+Fitchburg St.,Jacey Ham,jacey ham,WR,WR/TE,Sr.,Business,"Business, Finance & Accounting",3.0,54.0,4.0,0.0,58.0,0.0,0.0,48.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,-0.255,0
+Fitchburg St.,Andrew Novak,andrew novak,DB,DB,Sr.,Economics,Social Sciences,2.0,0.0,42.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,-0.167,0
+Fitchburg St.,Brian Holmes,brian holmes,DB,DB,So.,Business,"Business, Finance & Accounting",4.0,0.0,116.0,63.0,179.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,1.0,0.0,2.0,3.456,1
+Fitchburg St.,Emilio Cabey,emilio cabey,WR,WR/TE,Jr.,Criminal Justice,Criminal Justice,3.0,231.0,0.0,0.0,231.0,0.0,0.0,219.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.313,1
+Fitchburg St.,Nathan Lane,nathan lane,DB,DB,Jr.,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Fitchburg St.,Dasha Domercant,dasha domercant,QB,QB,Jr.,Business Administration,"Business, Finance & Accounting",4.0,463.0,0.0,0.0,463.0,397.0,24.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.69,1
+Fitchburg St.,Reshawn Stewart,reshawn stewart,RB,RB,Sr.,Graphic Design,Other,4.0,577.0,0.0,0.0,577.0,0.0,550.0,9.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.911,1
+Fitchburg St.,Luke Thompson,luke thompson,QB/TE,QB,Gr.,MBA Marketing,Marketing,1.0,8.0,0.0,0.0,8.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-0.699,0
+Fitchburg St.,Dexter Brown,dexter brown,DL,DL,Sr.,Business Management,"Business, Finance & Accounting",3.0,0.0,168.0,0.0,168.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,6.5,3.0,0.0,3.324,1
+Fitchburg St.,Peter Norton,peter norton,WR,WR/TE,Sr.,Accounting,"Business, Finance & Accounting",4.0,47.0,0.0,15.0,62.0,0.0,0.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.219,0
+Fitchburg St.,Devin Lebron,devin lebron,QB,QB,Sr.,Business Management,"Business, Finance & Accounting",3.0,37.0,0.0,0.0,37.0,0.0,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.611,0
+Fitchburg St.,Kyree Egerton,kyree egerton,WR,WR/TE,Sr.,Construction Management,Other,2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.708,0
+Fitchburg St.,Jaiden Williams,jaiden williams,WR,WR/TE,So.,Criminal Justice,Criminal Justice,3.0,37.0,8.0,32.5,77.5,0.0,37.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.078,0
+Fitchburg St.,Di'Angelo Jean-Pierre,diangelo pierre,WR,WR/TE,Jr.,Business,"Business, Finance & Accounting",3.0,54.0,0.0,102.0,156.0,0.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.633,1
+Fitchburg St.,Michael Galligan,michael galligan,QB,QB,So.,Business,"Business, Finance & Accounting",2.0,141.0,0.0,0.0,141.0,119.0,16.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.293,0
+Fitchburg St.,Andrew Gendron,andrew gendron,TE,WR/TE,Sr.,History,Social Sciences,1.0,7.0,0.0,0.0,7.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.717,0
+Fitchburg St.,Amari Blake,amari blake,WR,WR/TE,Jr.,Business Administration,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Fitchburg St.,Austin Lasseter,austin lasseter,DB,DB,Jr.,Criminal Justice,Criminal Justice,3.0,0.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,-0.854,0
+Fitchburg St.,Jonathan Williamson,jonathan williamson,RB,RB,So.,Undecided,Undeclared,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.734,0
+Fitchburg St.,Emmanuel Cano,emmanuel cano,DB,DB,Sr.,Construction Management,Other,4.0,0.0,90.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,2.5,0.0,0.0,1.103,1
+Fitchburg St.,Matthew Grenier,matthew grenier,LB,LB,So.,Criminal Justice,Criminal Justice,1.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.866,0
+Fitchburg St.,Oriowokite Fatoke,oriowokite fatoke,RB,RB,Sr.,Nursing,Nursing & Health,4.0,95.0,4.0,7.5,106.5,0.0,81.0,8.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,-0.066,0
+Fitchburg St.,Israel DeJesus,israel dejesus,LB,LB,So.,Business Administration,"Business, Finance & Accounting",3.0,0.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,-0.401,0
+Fitchburg St.,Tyler Sanders,tyler sanders,RB,RB,So.,Elementary Education,Education,1.0,0.0,4.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.708,0
+Fitchburg St.,Daniel Estremera IV,daniel estremera,OLB,LB,So.,Exercise and Sports Science,Sport Management & Recreation,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Fitchburg St.,Janderick Qui&ntilde;ones,janderick qui&ntilde;ones,RB,RB,Jr.,Exercise and Sports Science,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Fitchburg St.,Guymonley Dorce,guymonley dorce,DB,DB,So.,Construction Management,Other,4.0,0.0,106.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,2.5,0.0,0.0,1.526,1
+Fitchburg St.,Trayvon Lawson,trayvon lawson,DB,DB,Jr.,Criminal Justice,Criminal Justice,3.0,0.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.5,0.0,0.0,-0.273,0
+Fitchburg St.,Mohamed Kallo,mohamed kallo,DE,DL,Fr.,Cyber Security,Other,1.0,0.0,26.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,-0.273,0
+Fitchburg St.,Kanye Harvey,kanye harvey,LB,LB,Sr.,Business Management,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Fitchburg St.,Joseph Mensah,joseph mensah,DB,DB,So.,Computer Information Systems,Other,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.172,0
+Fitchburg St.,Ralph Raymond,ralph raymond,DB,DB,Fr.,Nursing,Nursing & Health,4.0,0.0,81.0,0.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.5,0.0,1.0,0.865,1
+Fitchburg St.,Dan Palmer,dan palmer,LB,LB,Jr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Fitchburg St.,Ousman Touray,ousman touray,DB,DB,Jr.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Fitchburg St.,Hunter Sands,hunter sands,P,K/P,Jr.,Elementary Education,Education,4.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.438,0
+Fitchburg St.,Lucas Greenstein,lucas greenstein,DB,DB,Fr.,Exercise and Sports Science,Sport Management & Recreation,3.0,0.0,67.0,0.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.494,0
+Fitchburg St.,Rob Holder,rob holder,WR,WR/TE,Fr.,Exercise and Sports Science,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Joseph Hardy,joseph hardy,RB,RB,Jr.,Business Accounting,"Business, Finance & Accounting",1.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,-0.677,0
+Fitchburg St.,Seyha Sun,seyha sun,RB,RB,Fr.,Exercise and Sports Science,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Fitchburg St.,Jadiel Sotolongo,jadiel sotolongo,DB,DB,Fr.,Business,"Business, Finance & Accounting",1.0,0.0,18.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.802,0
+Fitchburg St.,Khile Ralph,khile ralph,DB,DB,Fr.,Business Marketing,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Fitchburg St.,Michael Piccochi,michael piccochi,RB,RB,Fr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Fitchburg St.,Thomas Costa,thomas costa,DE,DL,Jr.,Criminal Justice,Criminal Justice,2.0,0.0,21.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.5,0.0,0.0,-0.4,0
+Fitchburg St.,KJ Hardin,kj hardin,DE,DL,So.,Business,"Business, Finance & Accounting",4.0,0.0,115.0,0.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,5.5,3.0,0.0,1.982,1
+Fitchburg St.,Christopher Da Silva Breguez,christopher breguez,LB,LB,So.,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Fitchburg St.,Liam Collins,liam collins,DE,DL,So.,Criminal Justice,Criminal Justice,2.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,-0.425,0
+Fitchburg St.,Kyle Connolly,kyle connolly,LB,LB,Jr.,Communications Media,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Fitchburg St.,Jeffrey Crandall,jeffrey crandall,LB,LB,So.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Fitchburg St.,Yariel Vallejo,yariel vallejo,OL,OL,Fr.,Exercise and Sports Science,Sport Management & Recreation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Jacob Cordon,jacob cordon,OL,OL,Sr.,Communications,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Garrett Berry,garrett berry,OL,OL,So.,Undecided,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Jonah Costa,jonah costa,K,K/P,Sr.,Construction Management,Other,2.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.552,0
+Fitchburg St.,Cameron Borges,cameron borges,OL,OL,Sr.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Troy Vento,troy vento,OL,OL,Sr.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Conrad Lynch,conrad lynch,DE,DL,Jr.,Communications Media,Communications & Media,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Fitchburg St.,Christian Sifuentes,christian sifuentes,OL,OL,So.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Giovanni Laguerre,giovanni laguerre,OL,OL,Jr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Xavier Aguilar,xavier aguilar,OL,OL,Sr.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Josiah Russell,josiah russell,OL,OL,Jr.,Psychology,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Jared Hardison,jared hardison,OL,OL,Gr.,MBA Accounting,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,William Aghedo,william aghedo,DL,DL,Sr.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Fitchburg St.,Maurice Donovan,maurice donovan,OL,OL,So.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Fitchburg St.,Nathaniel Rom,nathaniel rom,WR,WR/TE,Fr.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Nathaniel Otor,nathaniel otor,WR,WR/TE,So.,Cybersecurity,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Kaleb Ledbetter,kaleb ledbetter,WR,WR/TE,So.,Human Services,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Kaeden Kelley,kaeden kelley,WR,WR/TE,Fr.,Business Administration,"Business, Finance & Accounting",1.0,7.0,0.0,0.0,7.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.717,0
+Fitchburg St.,Lennoxx Ramos,lennoxx ramos,WR,WR/TE,Fr.,Construction Management,Other,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Edgar Melendez,edgar melendez,WR,WR/TE,Fr.,Business,"Business, Finance & Accounting",2.0,89.0,12.0,0.0,101.0,0.0,0.0,77.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.135,0
+Fitchburg St.,Javiien Lazu,javiien lazu,WR,WR/TE,Fr.,Undecided,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Jesus Morfe Gutierrez,jesus gutierrez,TE,WR/TE,Jr.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Christopher Towns,christopher towns,WR,WR/TE,Gr.,Business Administration,"Business, Finance & Accounting",1.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.754,0
+Fitchburg St.,Jerry Domercant,jerry domercant,WR,WR/TE,Jr.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Fitchburg St.,Fauzhan Sserugooti,fauzhan sserugooti,DE,DL,Fr.,Nursing,Nursing & Health,2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.729,0
+Fitchburg St.,Rolguy Dimanche,rolguy dimanche,DEis,Other,So.,Business Administration,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Fitchburg St.,Juelz Gonzalez,juelz gonzalez,DL,DL,So.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Westfield St.,Dorian Keirsey,dorian keirsey,QB,QB,So.,,Not reported,2.0,31.0,0.0,0.0,31.0,14.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.629,0
+Westfield St.,Mark Wright-Woodhouse,mark woodhouse,LB,LB,Sr.,Criminal Justice,Criminal Justice,4.0,0.0,109.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,4.0,1.0,0.0,1.091,1
+Westfield St.,Joel Perez-Guzman,joel guzman,RB,RB,Gr.,"Physical Education, M. Ed.",Exercise & Sport Science,1.0,2.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.727,0
+Westfield St.,Edwin Wilson,edwin wilson,DB,DB,Sr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Westfield St.,Cole Ingham,cole ingham,RB,RB,Fy.,Management,"Business, Finance & Accounting",4.0,199.0,12.0,0.0,211.0,0.0,166.0,33.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.595,1
+Westfield St.,Quinn Sumner,quinn sumner,QB,QB,Fy.,Movement Science,Exercise & Sport Science,4.0,508.0,4.0,0.0,512.0,440.0,32.0,0.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,0.84,1
+Westfield St.,Lucas Pickard,lucas pickard,TE,WR/TE,Sr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Cal Coughlin,cal coughlin,CB,DB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Westfield St.,Nick Boucher,nick boucher,QB,QB,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Westfield St.,Dom Curtis,dom curtis,QB,QB,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.724,0
+Westfield St.,Josiah Montanez,josiah montanez,DB,DB,So.,Economics,Social Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Westfield St.,Brandon Paquette,brandon paquette,WR,WR/TE,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Justin Flor,justin flor,CB,DB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Westfield St.,Charles Lewis,charles lewis,Wide Receiver,WR/TE,Fy.,Criminal Justice,Criminal Justice,1.0,24.0,0.0,0.0,24.0,0.0,4.0,14.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-0.563,0
+Westfield St.,Malachi Hymes,malachi hymes,WR,WR/TE,Fy.,Sport Management,Sport Management & Recreation,4.0,383.0,0.0,66.0,449.0,0.0,68.0,291.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,3.289,1
+Westfield St.,Tedi Hunt,tedi hunt,LB,LB,So.,,Not reported,4.0,0.0,99.0,0.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,2.5,0.0,1.0,0.897,1
+Westfield St.,Andrew Currier,andrew currier,K/P,K/P,Sr.,,Not reported,4.0,0.0,0.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.202,1
+Westfield St.,Caedan Burns,caedan burns,DB,DB,Fy.,Business,"Business, Finance & Accounting",3.0,0.0,31.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,-0.458,0
+Westfield St.,Chase Bowen,chase bowen,RB,RB,Sr.,,Not reported,3.0,-2.0,4.0,0.0,2.0,0.0,-2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.727,0
+Westfield St.,Kevin Moreira,kevin moreira,RB,RB,So.,,Not reported,4.0,164.0,12.0,0.0,176.0,0.0,66.0,98.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.374,0
+Westfield St.,JC Pena,jc pena,FB,RB,Sr.,,Not reported,2.0,48.0,0.0,0.0,48.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.436,0
+Westfield St.,Aiden Hansen,aiden hansen,RB,RB,Fy.,Exercise Science,Exercise & Sport Science,4.0,54.0,0.0,65.0,119.0,0.0,44.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.013,0
+Westfield St.,Josh Marino,josh marino,DB,DB,Jr.,,Not reported,4.0,0.0,105.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,1.0,0.0,0.0,1.499,1
+Westfield St.,Brady Paquette,brady paquette,LB,LB,Fy.,Movement Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Westfield St.,Andrew Lovell,andrew lovell,DB,DB,Jr.,,Not reported,4.0,0.0,153.0,0.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,3.0,1.0,0.0,2.769,1
+Westfield St.,Tom Cascio,tom cascio,DB,DB,Sr.,,Not reported,4.0,0.0,103.0,0.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,3.0,0.0,0.0,1.446,1
+Westfield St.,Nosaj Watson,nosaj watson,LB,LB,Fy.,Business,"Business, Finance & Accounting",1.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,-0.633,0
+Westfield St.,Owen Granger,owen granger,DB,DB,Fy.,Business,"Business, Finance & Accounting",1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,-0.96,0
+Westfield St.,Dylan Doherty,dylan doherty,RB,RB,Fy.,Undeclared,Undeclared,2.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,-0.689,0
+Westfield St.,Eric Lovell,eric lovell,DB,DB,Jr.,,Not reported,4.0,0.0,97.0,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,1.0,1.288,1
+Westfield St.,Moose Thompson,moose thompson,LB,LB,So.,,Not reported,3.0,0.0,46.0,0.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,0.0,0.0,-0.13,0
+Westfield St.,Ken Benbow,ken benbow,LB,LB,So.,,Not reported,3.0,0.0,17.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.5,0.0,-0.692,0
+Westfield St.,Logan Potter,logan potter,LB,LB,Jr.,Movement Science,Exercise & Sport Science,1.0,-6.0,0.0,0.0,-6.0,0.0,-6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.137,0
+Westfield St.,Dino Stellato,dino stellato,K/P,K/P,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Westfield St.,Damien Scribner,damien scribner,DB,DB,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.278,0
+Westfield St.,Brian Carlin,brian carlin,K,K/P,So.,,Not reported,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.667,0
+Westfield St.,Oliver Williams,oliver williams,RB,RB,Sr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Westfield St.,Aydan Verba,aydan verba,LB,LB,Jr.,,Not reported,4.0,0.0,152.0,0.0,152.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,3.5,2.5,0.0,1.924,1
+Westfield St.,Brandon Silva,brandon silva,LB,LB,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Westfield St.,Matty Witek,matty witek,LB,LB,So.,,Not reported,1.0,0.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.5,0.0,-0.847,0
+Westfield St.,Robert Smith,robert smith,RB,RB,Fy.,Biology,Natural Sciences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.74,0
+Westfield St.,Brandon Rene,brandon rene,LB,LB,Fy.,Movement Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Westfield St.,Manny Mengata,manny mengata,RB,RB,So.,,Not reported,3.0,346.0,0.0,0.0,346.0,0.0,322.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.449,1
+Westfield St.,Dylan Cooper,dylan cooper,LB,LB,Jr.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.943,0
+Westfield St.,Nick Gauger,nick gauger,LB,LB,So.,,Not reported,4.0,0.0,135.0,0.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,2.0,1.0,0.0,1.595,1
+Westfield St.,Ethan Lewis,ethan lewis,DL/LB,DL,So.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Westfield St.,Preston Jacoski,preston jacoski,DL,DL,Fy.,Criminal Justice,Criminal Justice,2.0,0.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,0.031,0
+Westfield St.,Logan Magras,logan magras,LB,LB,So.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.021,0
+Westfield St.,Dylan Rosario,dylan rosario,OL,OL,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Jon Alves,jon alves,DE,DL,Fy.,Finance,"Business, Finance & Accounting",1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.83,0
+Westfield St.,AJ O'Neill,aj oneill,OL,OL,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Jamari Andrews,jamari andrews,OL,OL,Sr.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Evan Vieira,evan vieira,OL,OL,Fy.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Chuck Rogers,chuck rogers,OL,OL,Fy.,Accounting,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Tucker Jones,tucker jones,OG,OL,Fy.,Movement Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Shea Taylor,shea taylor,OL,OL,Fy.,Physical Education,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Jack Yurek,jack yurek,OL,OL,Jr.,Movement Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Chase Goldberg,chase goldberg,DL,DL,Sr.,,Not reported,1.0,0.0,28.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,-0.222,0
+Westfield St.,Scott DeMarco,scott demarco,C,OL,Fy.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,John Danick,john danick,OL,OL,Fy.,Undeclared,Undeclared,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Mauricio Duran,mauricio duran,OL,OL,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Michael Duarte,michael duarte,OL,OL,Fy.,Physical Education,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Ryan Morrissey,ryan morrissey,OL,OL,So.,Physical Education,Exercise & Sport Science,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Tyler Santos,tyler santos,OL,OL,So.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Lureann Taveras,lureann taveras,OL,OL,Fy.,Health Science,Nursing & Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Seun Alade,seun alade,OL,OL,Fy.,Computer Science,Computer Science & IT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,James McLean,james mclean,DL,DL,Sr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Westfield St.,Caeden Stevens,caeden stevens,OL,OL,Fy.,Criminal Justice,Criminal Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.177,0
+Westfield St.,Kole Tempestilli,kole tempestilli,RB,RB,Fy.,Criminal Justice,Criminal Justice,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.715,0
+Westfield St.,Brady Cocio,brady cocio,WR,WR/TE,Fy.,Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Alex McDermott,alex mcdermott,WR,WR/TE,So.,Business,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Isaac Soto,isaac soto,TE,WR/TE,Fy.,Movement Science,Exercise & Sport Science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Wilfredo Lanauze,wilfredo lanauze,WR,WR/TE,Fy.,Finance,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.781,0
+Westfield St.,Charlie Ohlson,charlie ohlson,WR,WR/TE,So.,,Not reported,1.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.745,0
+Westfield St.,Drayden Keirsey,drayden keirsey,WR,WR/TE,Fy.,Undeclared,Undeclared,2.0,8.0,0.0,0.0,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.708,0
+Westfield St.,Emelson Ysnardin,emelson ysnardin,DL,DL,So.,,Not reported,3.0,0.0,71.0,0.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,1.5,0.0,0.0,0.867,1
+Westfield St.,Joesiel Sepulveda,joesiel sepulveda,DL,DL,Jr.,,Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Westfield St.,Jonny Balde,jonny balde,DL,DL,So.,,Not reported,2.0,0.0,30.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,-0.172,0
+Westfield St.,Owen Wade,owen wade,DL,DL,Jr.,Business Management,"Business, Finance & Accounting",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.931,0
+Westfield St.,Dominic Allen,dominic allen,DE,DL,Sr.,,Not reported,3.0,0.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.5,0.5,0.0,0.031,0
+Dean,Aviren Chitpaseuth,aviren chitpaseuth,LB,LB,Fy.,,Not reported,4.0,0.0,96.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.839,1
+Dean,Jonas Petrokansky,jonas petrokansky,WR,WR/TE,Jr.,,Not reported,1.0,12.0,0.0,0.0,12.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.672,0

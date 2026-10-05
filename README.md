@@ -11,6 +11,15 @@ It shows:
 
 The season data is **fetched at build time** from the official Plymouth State athletics feed, then baked into static HTML — no server, no runtime API calls.
 
+## Research paper
+
+[`paper/majors-and-football.pdf`](paper/majors-and-football.pdf) — *Majoring in Football: Do particular academic majors produce better football players? Evidence from the 2026 Plymouth State opponents* — a 4-page study built from the same season, plus the reproducible pipeline in [`analysis/`](analysis/).
+
+- Source: [`paper/majors-and-football.md`](paper/majors-and-football.md)
+- Rebuild the PDF: `PDF_ENGINE=tectonic ./paper/build.sh` (needs [pandoc](https://pandoc.org) and [tectonic](https://tectonic-typesetting.github.io))
+- Reproduce the analysis: `./analysis/run_all.sh --fetch`
+
+
 ## Data sources
 
 | What | Source |

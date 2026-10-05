@@ -1,0 +1,354 @@
+{
+  "n_players_with_major": 633,
+  "n_matched_to_stats": 313,
+  "stats_not_matched_to_major": 303,
+  "n_played": 313,
+  "position_means": {
+    "DB": 48.3,
+    "RB": 116.9,
+    "QB": 237.0,
+    "WR/TE": 86.1,
+    "DL": 36.8,
+    "LB": 52.7,
+    "K/P": 23.2,
+    "OL": 7.2
+  },
+  "major_summary": [
+    {
+      "major": "Communications & Media",
+      "players": 10,
+      "with_stats": 2,
+      "mean_total": 267.0,
+      "median_total": 267.0,
+      "mean_z": 1.788,
+      "top_quartile": 2,
+      "top_per_100": 100.0,
+      "mean_gp": 3.0
+    },
+    {
+      "major": "Computer Science & IT",
+      "players": 12,
+      "with_stats": 2,
+      "mean_total": 78.5,
+      "median_total": 78.5,
+      "mean_z": 1.099,
+      "top_quartile": 1,
+      "top_per_100": 50.0,
+      "mean_gp": 2.5
+    },
+    {
+      "major": "Marketing",
+      "players": 20,
+      "with_stats": 12,
+      "mean_total": 102.8,
+      "median_total": 73.5,
+      "mean_z": 0.357,
+      "top_quartile": 6,
+      "top_per_100": 50.0,
+      "mean_gp": 2.6
+    },
+    {
+      "major": "Education",
+      "players": 8,
+      "with_stats": 5,
+      "mean_total": 63.0,
+      "median_total": 56.0,
+      "mean_z": 0.334,
+      "top_quartile": 2,
+      "top_per_100": 40.0,
+      "mean_gp": 3.4
+    },
+    {
+      "major": "Nursing & Health",
+      "players": 24,
+      "with_stats": 14,
+      "mean_total": 86.5,
+      "median_total": 50.5,
+      "mean_z": 0.15,
+      "top_quartile": 4,
+      "top_per_100": 28.6,
+      "mean_gp": 2.6
+    },
+    {
+      "major": "Sport Management & Recreation",
+      "players": 38,
+      "with_stats": 18,
+      "mean_total": 83.4,
+      "median_total": 45.5,
+      "mean_z": 0.113,
+      "top_quartile": 5,
+      "top_per_100": 27.8,
+      "mean_gp": 2.4
+    },
+    {
+      "major": "Not reported",
+      "players": 103,
+      "with_stats": 60,
+      "mean_total": 70.0,
+      "median_total": 33.5,
+      "mean_z": 0.054,
+      "top_quartile": 17,
+      "top_per_100": 28.3,
+      "mean_gp": 2.6
+    },
+    {
+      "major": "Criminal Justice",
+      "players": 46,
+      "with_stats": 21,
+      "mean_total": 63.7,
+      "median_total": 38.0,
+      "mean_z": 0.033,
+      "top_quartile": 6,
+      "top_per_100": 28.6,
+      "mean_gp": 2.6
+    },
+    {
+      "major": "Other",
+      "players": 76,
+      "with_stats": 29,
+      "mean_total": 82.3,
+      "median_total": 44.0,
+      "mean_z": 0.028,
+      "top_quartile": 9,
+      "top_per_100": 31.0,
+      "mean_gp": 2.3
+    },
+    {
+      "major": "Social Sciences",
+      "players": 35,
+      "with_stats": 20,
+      "mean_total": 35.5,
+      "median_total": 20.0,
+      "mean_z": -0.022,
+      "top_quartile": 4,
+      "top_per_100": 20.0,
+      "mean_gp": 2.0
+    },
+    {
+      "major": "Business, Finance & Accounting",
+      "players": 199,
+      "with_stats": 102,
+      "mean_total": 82.6,
+      "median_total": 31.0,
+      "mean_z": -0.044,
+      "top_quartile": 25,
+      "top_per_100": 24.5,
+      "mean_gp": 2.4
+    },
+    {
+      "major": "Exercise & Sport Science",
+      "players": 17,
+      "with_stats": 7,
+      "mean_total": 90.1,
+      "median_total": 2.0,
+      "mean_z": -0.526,
+      "top_quartile": 1,
+      "top_per_100": 14.3,
+      "mean_gp": 1.9
+    },
+    {
+      "major": "Natural Sciences",
+      "players": 16,
+      "with_stats": 6,
+      "mean_total": 16.5,
+      "median_total": 16.0,
+      "mean_z": -0.56,
+      "top_quartile": 0,
+      "top_per_100": 0.0,
+      "mean_gp": 2.0
+    },
+    {
+      "major": "Undeclared",
+      "players": 29,
+      "with_stats": 15,
+      "mean_total": 21.5,
+      "median_total": 11.0,
+      "mean_z": -0.572,
+      "top_quartile": 0,
+      "top_per_100": 0.0,
+      "mean_gp": 1.7
+    }
+  ],
+  "top20": [
+    {
+      "name": "MJ Bakaysa",
+      "team": "Worcester St.",
+      "major": "Business, Finance & Accounting",
+      "position": "QB",
+      "total": 1028.0,
+      "z": 2.415,
+      "gp": 4.0
+    },
+    {
+      "name": "Michael Marcucella",
+      "team": "Framingham St.",
+      "major": "Business, Finance & Accounting",
+      "position": "QB",
+      "total": 904.0,
+      "z": 2.037,
+      "gp": 3.0
+    },
+    {
+      "name": "Chris Donohue",
+      "team": "Dean",
+      "major": "Not reported",
+      "position": "QB",
+      "total": 902.0,
+      "z": 2.031,
+      "gp": 4.0
+    },
+    {
+      "name": "JC Petrongolo",
+      "team": "Mass.-Dartmouth",
+      "major": "Other",
+      "position": "Quarterback QB",
+      "total": 577.0,
+      "z": 1.038,
+      "gp": 3.0
+    },
+    {
+      "name": "Reshawn Stewart",
+      "team": "Fitchburg St.",
+      "major": "Other",
+      "position": "RB",
+      "total": 577.0,
+      "z": 2.911,
+      "gp": 4.0
+    },
+    {
+      "name": "Lance Williams",
+      "team": "Worcester St.",
+      "major": "Nursing & Health",
+      "position": "WR",
+      "total": 538.0,
+      "z": 4.096,
+      "gp": 4.0
+    },
+    {
+      "name": "Gavin Hatfield",
+      "team": "Worcester St.",
+      "major": "Business, Finance & Accounting",
+      "position": "RB",
+      "total": 522.5,
+      "z": 2.566,
+      "gp": 4.0
+    },
+    {
+      "name": "Quinn Sumner",
+      "team": "Westfield St.",
+      "major": "Exercise & Sport Science",
+      "position": "QB",
+      "total": 512.0,
+      "z": 0.84,
+      "gp": 4.0
+    },
+    {
+      "name": "Dasha Domercant",
+      "team": "Fitchburg St.",
+      "major": "Business, Finance & Accounting",
+      "position": "QB",
+      "total": 463.0,
+      "z": 0.69,
+      "gp": 4.0
+    },
+    {
+      "name": "Malachi Hymes",
+      "team": "Westfield St.",
+      "major": "Sport Management & Recreation",
+      "position": "WR",
+      "total": 449.0,
+      "z": 3.289,
+      "gp": 4.0
+    },
+    {
+      "name": "Mekhi Wilson",
+      "team": "Mass.-Dartmouth",
+      "major": "Communications & Media",
+      "position": "Running Back RB",
+      "total": 424.0,
+      "z": 1.943,
+      "gp": 3.0
+    },
+    {
+      "name": "Mathias Fowler",
+      "team": "Framingham St.",
+      "major": "Marketing",
+      "position": "WR",
+      "total": 397.0,
+      "z": 2.818,
+      "gp": 3.0
+    },
+    {
+      "name": "Jayden Graham",
+      "team": "Plymouth St.",
+      "major": "Business, Finance & Accounting",
+      "position": "RB",
+      "total": 358.0,
+      "z": 1.525,
+      "gp": 4.0
+    },
+    {
+      "name": "Jayson Dyer",
+      "team": "Mass.-Dartmouth",
+      "major": "Business, Finance & Accounting",
+      "position": "Running Back RB",
+      "total": 346.5,
+      "z": 1.452,
+      "gp": 3.0
+    },
+    {
+      "name": "Manny Mengata",
+      "team": "Westfield St.",
+      "major": "Not reported",
+      "position": "RB",
+      "total": 346.0,
+      "z": 1.449,
+      "gp": 3.0
+    },
+    {
+      "name": "Reece Davis",
+      "team": "Plymouth St.",
+      "major": "Business, Finance & Accounting",
+      "position": "RB",
+      "total": 330.0,
+      "z": 1.348,
+      "gp": 4.0
+    },
+    {
+      "name": "Yasir Moses",
+      "team": "Dean",
+      "major": "Not reported",
+      "position": "RB",
+      "total": 255.5,
+      "z": 0.877,
+      "gp": 4.0
+    },
+    {
+      "name": "Emilio Cabey",
+      "team": "Fitchburg St.",
+      "major": "Criminal Justice",
+      "position": "WR",
+      "total": 231.0,
+      "z": 1.313,
+      "gp": 3.0
+    },
+    {
+      "name": "Cole Ingham",
+      "team": "Westfield St.",
+      "major": "Business, Finance & Accounting",
+      "position": "RB",
+      "total": 211.0,
+      "z": 0.595,
+      "gp": 4.0
+    },
+    {
+      "name": "Markus Andrews",
+      "team": "Mass.-Dartmouth",
+      "major": "Marketing",
+      "position": "Wide Receiver WR",
+      "total": 210.0,
+      "z": 1.123,
+      "gp": 3.0
+    }
+  ]
+}

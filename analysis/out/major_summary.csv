@@ -1,0 +1,15 @@
+major,players,with_stats,mean_total,median_total,mean_z,top_quartile,top_per_100,mean_gp
+Communications & Media,10,2,267.0,267.0,1.788,2,100.0,3.0
+Computer Science & IT,12,2,78.5,78.5,1.099,1,50.0,2.5
+Marketing,20,12,102.8,73.5,0.357,6,50.0,2.6
+Education,8,5,63.0,56.0,0.334,2,40.0,3.4
+Nursing & Health,24,14,86.5,50.5,0.15,4,28.6,2.6
+Sport Management & Recreation,38,18,83.4,45.5,0.113,5,27.8,2.4
+Not reported,103,60,70.0,33.5,0.054,17,28.3,2.6
+Criminal Justice,46,21,63.7,38.0,0.033,6,28.6,2.6
+Other,76,29,82.3,44.0,0.028,9,31.0,2.3
+Social Sciences,35,20,35.5,20.0,-0.022,4,20.0,2.0
+"Business, Finance & Accounting",199,102,82.6,31.0,-0.044,25,24.5,2.4
+Exercise & Sport Science,17,7,90.1,2.0,-0.526,1,14.3,1.9
+Natural Sciences,16,6,16.5,16.0,-0.56,0,0.0,2.0
+Undeclared,29,15,21.5,11.0,-0.572,0,0.0,1.7
