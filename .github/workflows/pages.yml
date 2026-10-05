@@ -36,6 +36,8 @@ jobs:
           cp -r index.html assets data .nojekyll _site/
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
